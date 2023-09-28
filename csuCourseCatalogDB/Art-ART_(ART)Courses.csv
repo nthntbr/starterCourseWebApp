@@ -1,0 +1,403 @@
+code,name,credits,description,prerequisite,registration,termsOffered,gradeMode,additionalInformation
+ART 100,Introduction to the Visual Arts (GT-AH1)  ,3 (3-0-0),Course Description: Exploration of the development of visual arts.,Prerequisite:  None.,,"Terms Offered: Fall, Spring.",Grade Mode:  Traditional.,Special Course Fee:  No.,"Additional Information:  Arts & Humanities 3B, Arts & Expression (GT-AH1).
+",Registration Information: Sections may be offered: Online.
+ART 105,Issues and Practices in Art  Credit,1 (1-0-0),"Course Description: Current issues, practices, and resources in the visual arts; integration of unified vocabulary in various art disciplines.",Prerequisite:  None.,,"Terms Offered: Fall, Spring.",Grade Mode:  Traditional.,"Special Course Fee:  No.
+",
+ART 110,Global Art History I  ,3 (3-0-0),Course Description: Art and architecture of the ancient world.,Prerequisite:  None.Term Offered: Fall.,,,Grade Mode:  Traditional.,"Special Course Fee:  No.
+",
+ART 111,Global Art History II  ,3 (3-0-0),Course Description: Art and architecture in the era of global connection.,Prerequisite:  ART 110.Term Offered: Spring.,,,Grade Mode:  Traditional.,"Special Course Fee:  No.
+",
+ART 120,Foundations--Time and Structure  ,3 (0-6-0),Course Description: Establishes a foundational understanding of digital literacy as part of a creative practice through the development of experimental media artworks in relation to interdisciplinary concepts.,Prerequisite:  None.,,"Terms Offered: Fall, Spring, Summer.",Grade Mode:  Traditional.,"Special Course Fee:  No.
+",
+ART 135,Foundations - Form and Observation  ,3 (0-6-0),Course Description: Foundational understanding of visual literacy as part of a creative practice through the development of two-dimensional artworks exploring form through observational methods in relation to interdisciplinary concepts.,Prerequisite:  None.,,"Terms Offered: Fall, Spring, Summer.",Grade Mode:  Traditional.,"Special Course Fee:  No.
+",
+ART 136,Introduction to Figure Drawing  ,3 (0-6-0),Course Description: Human form as basis for self-expression through various drawing media.,Prerequisite:  ART 135.,,"Terms Offered: Fall, Spring, Summer.",Grade Mode:  Traditional.,"Special Course Fee:  No.
+",
+ART 160,Foundations - Color and Composition  ,3 (0-6-0),Course Description: Establishes a foundational understanding of color and composition as part of a creative practice through the development of artworks using two-dimensional methods in relation to interdisciplinary concepts.,Prerequisite:  None.,,"Terms Offered: Fall, Spring.",Grade Mode:  Traditional.,"Special Course Fee:  No.
+",
+ART 170,Foundations - Materials and Space  ,3 (0-6-0),Course Description: Establishes a foundational understanding of materials and space as part of a creative practice through the development of three-dimensional artworks in relation to interdisciplinary concepts.,Prerequisite:  None.,,"Terms Offered: Fall, Spring.",Grade Mode:  Traditional.,"Special Course Fee:  Yes.
+",
+ART 200,Media Arts in Context  ,3 (3-0-0),"Course Description: History and contemporary practice of media-based arts. Addresses printmaking, graphic design, photography, film, video, computer-generated imagery, digital fabrication, and other cognate disciplines.",Prerequisite:  None.,,,Grade Mode:  Traditional.,Special Course Fee:  No.,"Additional Information:  Arts & Humanities 3B.
+",Registration Information: Offered as an online course only.
+ART 212,Global Art History III  ,3 (3-0-0),Course Description: Global modern and contemporary art and architecture.,Prerequisite:  ART 111.,,"Terms Offered: Fall, Spring.",Grade Mode:  Traditional.,"Special Course Fee:  No.
+",
+ART 230,Photo Image Making I  ,3 (0-6-0),Course Description: Photographic imagery as an art medium; exploration of silver-based (film) materials.,Prerequisite:  ART 111 and ART 120 and ART 135 and ART 160 and ART 170.,,"Terms Offered: Fall, Spring.",Grade Mode:  Traditional.,"Special Course Fee:  Yes.
+",
+ART 231,Photo Image Making for Non-Art Majors  ,3 (0-6-0),"Course Description: Create photographically-based artworks, and assess works through critical interactions.",Prerequisite:  None.,,,Grade Mode:  Traditional.,"Special Course Fee:  No.
+",,Registration Information: Non-Art majors only. Credit not allowed for both ART 231 and ART 280A1.
+ART 235,Drawing Materials and Techniques  ,3 (0-6-0),"Course Description: Introducing fundamental skills and knowledge in drawing emphasizing a variety of processes, techniques and materials while exploring thematic topics.",Prerequisite:  ART 111 and ART 120 and ART 135 and ART 160 and ART 170.,,"Terms Offered: Fall, Spring, Summer.",Grade Mode:  Traditional.,"Special Course Fee:  No.
+",
+ART 236,Figure Drawing  ,3 (0-6-0),"Course Description: Develop and employ observational drawing methods centered on the motif of the human form. Explore the nature of observation, representation, and the role of the human being and human form in art. Discover the spatial morphology of the human form and analyze a diverse range of drawing genres that use the human form as a motif.",Prerequisite:  None.Term Offered: Spring.,,,Grade Mode:  Traditional.,"Special Course Fee:  Yes.
+",
+ART 240,Pottery I  ,3 (0-6-0),Course Description: Basic techniques of studio ceramics and wheel throwing; exploration of expressive potential in pottery.,Prerequisite:  ART 111 and ART 120 and ART 135 and ART 160 and ART 170.,,"Terms Offered: Fall, Spring.",Grade Mode:  Traditional.,"Special Course Fee:  Yes.
+",
+ART 245,Metalsmithing and Jewelry I  ,3 (0-6-0),"Course Description: Introduction to the materials, processes, and concepts that ground the field of contemporary jewelry and metalsmithing. Techniques include metal forming and fabrication processes; jewelry design and construction; surface treatment and finishing processes; behavior and mechanical properties of metals.",Prerequisite:  ART 111 and ART 120 and ART 135 and ART 160 and ART 170.,,"Terms Offered: Fall, Spring.",Grade Mode:  Traditional.,"Special Course Fee:  Yes.
+",
+ART 250,Fibers I  ,3 (0-6-0),Course Description: Fibers and fabric as expressive media; weaving and basic fiber structures; fabric painting and surface techniques.,Prerequisite:  ART 111 and ART 120 and ART 135 and ART 160 and ART 170.,,"Terms Offered: Fall, Spring.",Grade Mode:  Traditional.,"Special Course Fee:  Yes.
+",
+ART 253,Digital Fabrication  ,3 (0-6-0),"Course Description: Practical and technical skills within a historical and theoretical context for using computers, in combination with traditional and analog fabrication processes, to shape physical materials and make creative works. Introduces 3D Computer Aided Design (CAD), Computer Aided Machining (CAM), and Computer Numeric Controlled (CNC) Machining including 3D printing, Laser Cutting, and CNC Routing/Milling.",Prerequisite:  ART 110 or ART 135 or ART 136 or ART 160 or ART 170.Term Offered: Fall.,,,Grade Mode:  Traditional.,"Special Course Fee:  Yes.
+",
+ART 255,Introduction to Graphic Design  ,3 (0-6-0),"Course Description: An introduction to visual communication design, typography, design systems, and layout.",Prerequisite:  ART 111 and ART 120 and ART 135 and ART 160 and ART 170.,,"Terms Offered: Fall, Spring.",Grade Mode:  Traditional.,"Special Course Fee:  Yes.
+",,Registration Information: 2.55 GPA or better.
+ART 256,Introduction to Electronic Art  ,3 (0-6-0),"Course Description: An introduction to interactive and time-based mediums for art making. Course material may include sound art, video, coding and/or animation as a basis for creation.",Prerequisite:  ART 111 and ART 120 and ART 135 and ART 160 and ART 170.,,"Terms Offered: Fall, Spring.",Grade Mode:  Traditional.,"Special Course Fee:  Yes.
+",
+ART 260,Painting I--Fundamentals and Representation  ,3 (0-6-0),Course Description: Beginning oil painting focusing on development of technical skills while exploring concepts of representation in western and non-western art.,Prerequisite:  ART 111 and ART 120 and ART 135 and ART 160 and ART 170.,,"Terms Offered: Fall, Spring.",Grade Mode:  Traditional.,"Special Course Fee:  Yes.
+",
+ART 265,Printmaking I-Introduction to Printmaking  ,3 (0-6-0),"Course Description: Introduction to the materials, processes, and concepts that ground the field of contemporary printmaking. Explore multiple techniques of printmaking. Develop an individual artistic practice.",Prerequisite:  ART 111 and ART 120 and ART 135 and ART 160 and ART 170.,,"Terms Offered: Fall, Spring.",Grade Mode:  Traditional.,"Special Course Fee:  Yes.
+",
+ART 266,History and Practice of Non-Toxic Printmaking  ,3 (1-4-0),Course Description: Brief history of traditional printmaking practices to provide exposure to contemporary non-toxic printmaking practices through a hands-on studio.,Prerequisite:  None. Restriction: .,,,Grade Mode:  Traditional.,"Special Course Fee:  No.
+",,Registration Information: Must register for lecture and laboratory. Offered as Mixed Face-to-Face only. Credit not allowed for both ART 266 and ART 380A2.
+ART 270,Sculpture I  ,3 (0-6-0),Course Description: Introduction to sculptural techniques and concepts.,Prerequisite:  ART 111 and ART 120 and ART 135 and ART 160 and ART 170.,,"Terms Offered: Fall, Spring.",Grade Mode:  Traditional.,"Special Course Fee:  Yes.
+",
+ART 295,A  Independent Study: Painting  ,Var[1-4] (0-0-0),Course Description: ,Prerequisite:  None.,,"Terms Offered: Fall, Spring, Summer.",Grade Mode:  Instructor Option.,"Special Course Fee:  No.
+",
+ART 295,B  Independent Study: Printmaking  ,Var[1-4] (0-0-0),Course Description: ,Prerequisite:  None.,,"Terms Offered: Fall, Spring, Summer.",Grade Mode:  Instructor Option.,"Special Course Fee:  No.
+",
+ART 295,C  Independent Study: Sculpture  ,Var[1-4] (0-0-0),Course Description: ,Prerequisite:  None.,,"Terms Offered: Fall, Spring, Summer.",Grade Mode:  Instructor Option.,"Special Course Fee:  Yes.
+",
+ART 295,D  Independent Study: Fibers  ,Var[1-4] (0-0-0),Course Description: ,Prerequisite:  None.,,"Terms Offered: Fall, Spring, Summer.",Grade Mode:  Instructor Option.,"Special Course Fee:  No.
+",
+ART 295,E  Independent Study: Metalsmithing and Jewelry  ,Var[1-4] (0-0-0),Course Description: ,Prerequisite:  None.,,"Terms Offered: Fall, Spring, Summer.",Grade Mode:  Instructor Option.,"Special Course Fee:  Yes.
+",
+ART 295,F  Independent Study: Drawing  ,Var[1-4] (0-0-0),Course Description: ,Prerequisite:  None.,,"Terms Offered: Fall, Spring, Summer.",Grade Mode:  Instructor Option.,"Special Course Fee:  No.
+",
+ART 295,G  Independent Study: Graphic Design  ,Var[1-4] (0-0-0),Course Description: ,Prerequisite:  None.,,"Terms Offered: Fall, Spring, Summer.",Grade Mode:  Instructor Option.,"Special Course Fee:  No.
+",
+ART 295,H  Independent Study: Art History  ,Var[1-4] (0-0-0),Course Description: ,Prerequisite:  None.,,"Terms Offered: Fall, Spring, Summer.",Grade Mode:  Instructor Option.,"Special Course Fee:  No.
+",
+ART 295,I  Independent Study: Art Education  ,Var[1-4] (0-0-0),Course Description: ,Prerequisite:  None.,,"Terms Offered: Fall, Spring, Summer.",Grade Mode:  Instructor Option.,"Special Course Fee:  No.
+",
+ART 295,J  Independent Study: Pottery  ,Var[1-4] (0-0-0),Course Description: ,Prerequisite:  None.,,"Terms Offered: Fall, Spring, Summer.",Grade Mode:  Instructor Option.,"Special Course Fee:  No.
+",
+ART 295,K  Independent Study: Photo Image Making  ,Var[1-4] (0-0-0),Course Description: ,Prerequisite:  None.,,"Terms Offered: Fall, Spring, Summer.",Grade Mode:  Instructor Option.,"Special Course Fee:  No.
+",
+ART 295,L  Independent Study: Electronic Art  ,Var[1-4] (0-0-0),Course Description: Students work with one faculty member to create course content relevant to electronic art.,Prerequisite:  ART 100 to 399 - at least 3 credits.,,"Terms Offered: Fall, Spring.",Grade Mode:  Traditional.,"Special Course Fee:  No.
+",,Registration Information: Junior standing. Written consent of instructor. Instructor must approve of proposed course content from student prior to registration.
+ART 309,Pre-Columbian Art of the Andes  ,3 (3-0-0),"Course Description: Artistic and architectural traditions of major ancient civilizations in the central Andean region of South America, including the Chavín, Nazca, Moche, Tiwanaku, and Inca cultures from 2500 bce until the sixteenth-century conquest and colonization by Spain.",Prerequisite:  ART 212.,,,Grade Mode:  Traditional.,"Special Course Fee:  No.
+",
+ART 310,History of American Art to 1945  ,3 (3-0-0),,Prerequisite:  ART 212.,,,Grade Mode:  Traditional.,"Special Course Fee:  No.
+",
+ART 311,Art of West and Central Africa  ,3 (3-0-0),"Course Description: Focuses on the arts of West and Central Africa from prehistory through contemporary visual expressions, and engages with current art historical theoretical approaches and practices in order to gain a nuanced understanding of the arts in these respective regions and their relationship to global art production.",Prerequisite:  ART 212.Term Offered: Fall (odd years).,,,Grade Mode:  Traditional.,"Special Course Fee:  Yes.
+",
+ART 312,Pre-Columbian Art of Mesoamerica  ,3 (3-0-0),"Course Description: Artistic and architectural traditions of major ancient civilizations in Mesoamerica, including the Olmecs, Maya, Teotihuacanoes, Mixtecs, and Aztecs, from 1200 bce until the sixteenth-century conquest by Spain.",Prerequisite:  ART 212.,,,Grade Mode:  Traditional.,"Special Course Fee:  No.
+",
+ART 313,Art of East and Southern Africa  ,3 (3-0-0),"Course Description: Arts of southern and East Africa from prehistory through contemporary visual expressions, and engages with current art historical theoretical approaches and practices to gain a nuanced understanding of the arts in these respective regions and their relationship to global art production.",Prerequisite:  ART 212.Term Offered: Fall (even years).,,,Grade Mode:  Traditional.,"Special Course Fee:  Yes.
+",
+ART 314,Women in Art History  ,3 (3-0-0),,Prerequisite:  ART 212.,,,Grade Mode:  Traditional.,"Special Course Fee:  No.
+",
+ART 315,United States Art 1945-1980  ,3 (3-0-0),Course Description: Visual art in the United States 1945-1980.,Prerequisite:  ART 212.Term Offered: Spring.,,,Grade Mode:  Traditional.,"Special Course Fee:  No.
+",
+ART 316,Art of the Pacific  ,3 (3-0-0),"Course Description: Arts of Australia, Indonesia, Melanesia, Micronesia, and Polynesia.",Prerequisite:  ART 212.Term Offered: Spring.,,,Grade Mode:  Traditional.,"Special Course Fee:  No.
+",
+ART 317,Native North American Art  ,3 (3-0-0),"Course Description: Introduction to historic and contemporary art forms of Native North America, emphasizing the cultural and political contexts.",Prerequisite:  ART 212.,,,Grade Mode:  Traditional.,"Special Course Fee:  No.
+",,Registration Information: Written consent of instructor for non-Art majors.Term Offered: Spring.
+ART 320,Global Encounters in Art  ,3 (3-0-0),Course Description: Comparative topics in global art.,Prerequisite:  ART 212.,,,Grade Mode:  Traditional.,"Special Course Fee:  No.
+",
+ART 321,A  Travel Abroad: Studio Workshop in Italy-Drawing  ,Var[3-5] (0-0-0),Course Description: Exploration of studio techniques in Italy.,Prerequisite:  ART 135.Term Offered: Summer.,,,Grade Mode:  Traditional.,"Special Course Fee:  No.
+",
+ART 321,B  Travel Abroad: Studio Workshop in Italy-Photo Image Making  ,Var[3-5] (0-0-0),Course Description: Exploration of studio techniques in Italy.,Prerequisite:  ART 230.,,,Grade Mode:  Traditional.,"Special Course Fee:  No.
+",,Registration Information: ART 230 or portfolio review; written consent of instructor.Term Offered: Summer.
+ART 321,C  Travel Abroad: Studio Workshop in Italy-Fibers  ,Var[3-5] (0-0-0),Course Description: Exploration of studio techniques in Italy.,Prerequisite:  ART 250.,,,Grade Mode:  Traditional.,"Special Course Fee:  No.
+",,Registration Information: ART 250 or portfolio review; written consent of instructor.Term Offered: Summer.
+ART 321,D  Travel Abroad: Studio Workshop in Italy-Sculpture  ,Var[3-5] (0-0-0),Course Description: Exploration of studio techniques in Italy.,Prerequisite:  ART 270.Term Offered: Summer.,,,Grade Mode:  Traditional.,"Special Course Fee:  No.
+",
+ART 324,A  Study Abroad-–Mexico: Art Meets Environment  ,3 (0-0-3),"Course Description: Explores the intersection of visual arts, community and environment in Baja California Sur through direct experience, creative practice, collaborative processes and contemporary and historical art theory.",Prerequisite:  CO 150. Restriction: Must not be a: Freshman.,,,Grade Mode:  Traditional.,"Special Course Fee:  No.
+",,Registration Information: Sophomore standing. Written consent of instructor. Offered as Mixed Face-to-Face.
+ART 325,Concepts in Art Education  ,3 (3-0-0),"Course Description: Artistic learning in children, adolescents, adults, and special populations.",Prerequisite:  EDUC 275.,,,Grade Mode:  Traditional.,"Special Course Fee:  No.
+",,Registration Information: Admission to Teacher Licensure Program required.Term Offered: Spring.
+ART 326,Art Education Studio  ,4 (0-8-0),Course Description: Art areas required for teacher licensure as indicated by individual student needs.,Prerequisite:  ART 325 with a minimum grade of C.,,,Grade Mode:  Traditional.,"Special Course Fee:  Yes.
+",,Registration Information: Junior standing. Admission to Teacher Licensure Program required. Written consent of instructor.Term Offered: Spring.
+ART 327,Issues in Art Education and the Public  ,3 (3-0-0),Course Description: Introduce students to the concepts relating to Art Education in contemporary society.,Prerequisite:  None.,,,Grade Mode:  Traditional.,"Special Course Fee:  No.
+",,Registration Information: Junior standing. This is a partial semester course. Offered as an online course only.Term Offered: Summer.
+ART 330,Photo Image Making II  ,4 (0-8-0),Course Description: Studio course designed to develop the growth of photographic expression.,Prerequisite:  ART 230.,,,Grade Mode:  Traditional.,"Special Course Fee:  Yes.
+",,Registration Information: ART 230 or portfolio review.Term Offered: Fall.
+ART 331,Photo Image Making III  ,4 (0-8-0),"Course Description: Studio course designed to further growth of concept, materials in photographic expression as an art medium.",Prerequisite:  ART 330.Term Offered: Spring.,,,Grade Mode:  Traditional.,"Special Course Fee:  Yes.
+",
+ART 335,Contemporary Topics in Drawing  ,4 (0-8-0),Course Description: Broadening knowledge and skills in drawing by emphasizing a variety of approaches and materials while exploring contemporary topics.,Prerequisite:  ART 235.,,"Terms Offered: Fall, Spring.",Grade Mode:  Traditional.,"Special Course Fee:  No.
+",
+ART 336,Projects in Drawing  ,4 (0-8-0),"Course Description: Generate and synthesize drawing-based project work through dedicated artistic research. Identify relevant contemporary issues and formulate personalized drawing practices through in-depth projects. Each project is invented and justified through a written proposal, artist statement, oral presentations, and sketchbook work, prior to fully evaluated tangible works of art.",Prerequisite:  ART 335.,,"Terms Offered: Fall, Spring.",Grade Mode:  Traditional.,"Special Course Fee:  No.
+",
+ART 340,Pottery II  ,4 (0-8-0),"Course Description: Studio ceramic and wheel throwing techniques; surface treatment, kiln firing, clay and glaze formulation.",Prerequisite:  ART 240.,,"Terms Offered: Fall, Spring, Summer.",Grade Mode:  Traditional.,"Special Course Fee:  Yes.
+",
+ART 341,Pottery III  ,4 (0-8-0),Course Description: Form and surface exploration; supportive ceramic technologies; expression in historical pottery.,Prerequisite:  ART 340.Term Offered: Spring.,,,Grade Mode:  Traditional.,"Special Course Fee:  Yes.
+",
+ART 345,Metalsmithing and Jewelry II  ,4 (0-8-0),Course Description: Raising and casting techniques in combination with construction; metal spinning.,Prerequisite:  ART 245.,,"Terms Offered: Fall, Spring.",Grade Mode:  Traditional.,"Special Course Fee:  Yes.
+",
+ART 346,Metalsmithing and Jewelry III  ,4 (0-8-0),Course Description: Forging and enameling techniques on nonferrous and ferrous metals; stone setting.,Prerequisite:  ART 245.,,"Terms Offered: Fall, Spring.",Grade Mode:  Traditional.,"Special Course Fee:  Yes.
+",
+ART 350,Fibers II  ,4 (0-8-0),Course Description: Intermediate fiber structures and fabric and surface design; dyes and pigments; continued investigation of fibers and fabric as expressive media.,Prerequisite:  ART 250.,,"Terms Offered: Fall, Spring.",Grade Mode:  Traditional.,"Special Course Fee:  Yes.
+",
+ART 351,Fibers III  ,4 (0-8-0),Course Description: Investigation of fibers and fabric as expressive media; research in historic textiles.,Prerequisite:  ART 250.,,"Terms Offered: Fall, Spring.",Grade Mode:  Traditional.,"Special Course Fee:  Yes.
+",
+ART 355,Typography and Design Systems  ,4 (0-8-0),"Course Description: Emphasis on typographic solutions for advertising, corporate identity, packaging, and publication design.",Prerequisite:  ART 255.Term Offered: Fall.,,,Grade Mode:  Traditional.,"Special Course Fee:  Yes.
+",
+ART 356,Illustration  ,4 (0-8-0),"Course Description: Problems emphasizing media, experimental techniques, and compositions.",Prerequisite:  ART 255.,,,Grade Mode:  Traditional.,"Special Course Fee:  Yes.
+",,Registration Information: Six credits in drawing required in addition to ART 255.Term Offered: Spring.
+ART 357,Interactive Media  ,4 (0-8-0),"Course Description: Technical, conceptual, and historic aspects of creating interactive electronic media.",Prerequisite:  ART 255 or ART 256.Term Offered: Fall.,,,Grade Mode:  Traditional.,"Special Course Fee:  No.
+",
+ART 358,Experimental Video  ,4 (0-8-0),"Course Description: History, theory, application of experimental video and digital special effects,  animation and video techniques as they apply to experimental video.",Prerequisite:  ART 255 or ART 256.Term Offered: Fall.,,,Grade Mode:  Traditional.,"Special Course Fee:  No.
+",
+ART 360,Painting II--Ideation and Concept Development  ,4 (0-8-0),Course Description: Continuing development of technical skills in oil painting through the use of conceptual prompts.,Prerequisite:  ART 260.Term Offered: Fall.,,,Grade Mode:  Traditional.,"Special Course Fee:  No.
+",
+ART 361,Painting III--Experimental Approaches  ,4 (0-8-0),"Course Description: Broadening knowledge and skill in the painting discipline by introducing experimental processes, methods and materials.",Prerequisite:  ART 360.Term Offered: Spring.,,,Grade Mode:  Traditional.,"Special Course Fee:  Yes.
+",
+ART 365,Printmaking II-Lithography  ,4 (0-8-0),"Course Description: Preparation, processing, and printing techniques in stone and metal plate lithography.",Prerequisite:  ART 136.,,"Terms Offered: Fall, Spring.",Grade Mode:  Traditional.,"Special Course Fee:  Yes.
+",
+ART 366,Printmaking III-Studio Workshop  ,4 (0-8-0),"Course Description: Advanced intaglio, relief, planographic, and stencil processes in the workshop, continued emphasis on individual creative growth.",Prerequisite:  ART 365.,,"Terms Offered: Fall, Spring.",Grade Mode:  Traditional.,"Special Course Fee:  Yes.
+",
+ART 370,Sculpture II  ,4 (0-8-0),,Prerequisite:  ART 270.,,,Grade Mode:  Traditional.,"Special Course Fee:  Yes.
+",
+ART 371,Sculpture III  ,4 (0-8-0),"Course Description: Intermediate-level development of studio practice, exploration of technical process, theory and professionalism.",Prerequisite:  ART 270.Term Offered: Spring.,,,Grade Mode:  Traditional.,"Special Course Fee:  Yes.
+",
+ART 382,A  Study Abroad in Japan: Art History  ,3 (0-0-3),Course Description: History of Japanese art and architecture experienced on location in Japan.,Prerequisite:  ART 110 or ART 120 or ART 135 or ART 160 or ART 170.Term Offered: Summer (every third year).,,,Grade Mode:  Traditional.,"Special Course Fee:  No.
+",
+ART 382,B  Study Abroad in Japan: Studio Art  ,3 (0-0-3),Course Description: Investigation of Japanese art and design experienced on location in Japan.,Prerequisite:  ART 110 or ART 120 or ART 135 or ART 160 or ART 170.Term Offered: Summer (every third year).,,,Grade Mode:  Traditional.,"Special Course Fee:  No.
+",
+ART 382,C  Study Abroad: Art Meets Environment in Baja California Sur  ,3 (0-0-3),"Course Description: Explores the intersection of visual arts, community and environment in Baja California Sur through direct experience, creative practice, collaborative processes and contemporary and historical art theory.",Prerequisite:  CO 150.,,,Grade Mode:  Traditional.,"Special Course Fee:  No.
+",,Registration Information: Sophomore standing. Written consent of instructor. Offered as Mixed Face-to-Face.
+ART 382,D  Study Abroad--Italy: Painting  ,Var[3-5] (0-0-0),Course Description: Exploration of studio techniques in Italy.,Prerequisite:  ART 160.,,"Terms Offered: Spring, Summer.",Grade Mode:  Traditional.,"Special Course Fee:  No.
+",
+ART 384,Supervised College Teaching  ,Var[1-4] (0-0-0),Course Description: Supervised assistance in instruction.,Prerequisite:  None.,,"Terms Offered: Fall, Spring.",Grade Mode:  Instructor Option.,"Special Course Fee:  No.
+",,Registration Information: Junior or senior standing; written consent of instructor. Maximum of 10 combined credits for all 384 and 484 courses are counted towards graduation requirements.
+ART 392,Undergraduate Professional Practices Seminar  ,3 (0-0-3),Course Description: Skills and tools beneficial in pursuing professional and/or academic goals in the visual arts.,Prerequisite:  None.,,,Grade Mode:  Traditional.,"Special Course Fee:  Yes.
+",,Registration Information: Junior standing. Sections may be offered: Online.
+ART 400,BFA Portfolio  Credit,1 (1-0-0),Course Description: Effectively submit capstone work to the University's Digital Repository and a Juried BFA Exhibition while teaching best practices for managing and sharing work after graduation.,Prerequisite:  None.,,"Terms Offered: Fall, Spring.",Grade Mode:  S/U Sat/Unsat Only.,"Special Course Fee:  No.
+",,Registration Information: Senior standing. Written consent of instructor. This is a partial semester course.
+ART 409,Museum Collections--Storage to Exhibition  ,3 (3-0-0),"Course Description: Introduction to issues involving museum collections. Topics are addressed through readings, documentary films, class discussions, guest speakers, gallery tours, object research, and hands-on projects. Work closely with objects from the Gregory Allicar Museum of Art collection.",Prerequisite:  ART 212.Term Offered: Fall.,,,Grade Mode:  Traditional.,"Special Course Fee:  No.
+",
+ART 410,Greek Art  ,3 (3-0-0),,Prerequisite:  ART 212.,,,Grade Mode:  Traditional.,"Special Course Fee:  No.
+",
+ART 411,History of Medieval Art  ,3 (3-0-0),"Course Description: Early Christian, Byzantine, Islamic, Romanesque, and Gothic visual art forms.",Prerequisite:  ART 212.Term Offered: Spring (even years).,,,Grade Mode:  Traditional.,"Special Course Fee:  No.
+",
+ART 412,History of Renaissance Art  ,3 (3-0-0),,Prerequisite:  ART 212.,,,Grade Mode:  Traditional.,"Special Course Fee:  No.
+",
+ART 414,History of Baroque and Rococo Art  ,3 (3-0-0),Course Description: 17th- and 18th-century visual arts.,Prerequisite:  ART 212.Term Offered: Spring.,,,Grade Mode:  Traditional.,"Special Course Fee:  No.
+",
+ART 415,History of 19th Century European Art  ,3 (3-0-0),"Course Description: Architecture, sculpture, painting, and other arts in Europe, 1780 - 1900.",Prerequisite:  ART 212.Term Offered: Fall (even years).,,,Grade Mode:  Traditional.,"Special Course Fee:  No.
+",
+ART 416,"History of European Art, 1900 to 1945  ",3 (3-0-0),"Course Description: Visual arts in Europe, 1900 to 1945.",Prerequisite:  ART 212.Term Offered: Spring (odd years).,,,Grade Mode:  Traditional.,"Special Course Fee:  No.
+",
+ART 417,Roman Art  ,3 (3-0-0),"Course Description: Roman sculpture, painting, and architecture.",Prerequisite:  ART 212.Term Offered: Spring (even years).,,,Grade Mode:  Traditional.,"Special Course Fee:  No.
+",
+ART 418,Contemporary Artists and Art Critics  ,3 (3-0-0),Course Description: Critical study of contemporary artists and art criticism.,Prerequisite:  ART 212.Term Offered: Spring.,,,Grade Mode:  Traditional.,"Special Course Fee:  No.
+",
+ART 419,Historiography and Methodology of Art History  ,3 (3-0-0),Course Description: Historiography/methodology/research methods in art history.,Prerequisite:  None.,,,Grade Mode:  Traditional.,"Special Course Fee:  No.
+",,Registration Information: Written consent of instructor.Term Offered: Fall.
+ART 420,Travel Abroad-Art History in Italy  ,Var[3-5] (0-0-0),"Course Description: Art historical study of painting, sculpture, and architecture in Italy.",Prerequisite:  ART 212.Term Offered: Summer.,,,Grade Mode:  Traditional.,"Special Course Fee:  No.
+",
+ART 421,Art and Environment  ,3 (0-6-0),"Course Description: Interdisciplinary studio/seminar course investigating art's relationship to the environment through readings, field trips, presentations and studio practice.",Prerequisite:  ART 136 and ART 160 and ART 170 and ART 200 to 299 - at least 6 credits.,,,Grade Mode:  Traditional.,"Special Course Fee:  Yes.
+",,"Registration Information: Required field trips. Credit allowed for only one of the following: ART 380A1, ART 421, ART 521 or ART 680A1."
+ART 425,Integrated Visual Studies  ,4 (4-0-0),"Course Description: Interdisciplinary and guided study linking systems of knowledge. Students are afforded the space to draw on their breadth of information and artistic mediums to create a capstone project that demonstrates an ability to communicate effectively across verbal, visual, and written forms. Develop skills as makers and thinkers, fostering critical awareness of how society reflects and produces visual meaning.",Prerequisite:  None.,,,Grade Mode:  Traditional.,"Special Course Fee:  No.
+",,Registration Information: Senior standing. Written consent of advisor. 21 credits of upper-division coursework in the BA-Integrated Visual Studies concentration.Term Offered: Spring.
+ART 430,Advanced Photo Image Making I  ,4 (0-8-0),Course Description: Advanced problems in use of photo image making as an art medium.,Prerequisite:  ART 331.,,"Terms Offered: Fall, Spring.",Grade Mode:  Traditional.,"Special Course Fee:  Yes.
+",
+ART 431,Advanced Photo Image Making II  ,4 (0-8-0),Course Description: Studio course to refine individual directions and professional goals in photography as an art medium.,Prerequisite:  ART 430.,,"Terms Offered: Fall, Spring.",Grade Mode:  Traditional.,"Special Course Fee:  Yes.
+",
+ART 435,Advanced Drawing I  ,4 (0-8-0),Course Description: Independent projects and identification of personal artistic direction; research in art-related topics.,Prerequisite:  ART 336.,,"Terms Offered: Fall, Spring, Summer.",Grade Mode:  Traditional.,"Special Course Fee:  No.
+",
+ART 436,Advanced Drawing II  ,4 (0-8-0),Course Description: Capstone course; production of professional exhibition-quality work.,Prerequisite:  ART 435.,,"Terms Offered: Fall, Spring, Summer.",Grade Mode:  Traditional.,"Special Course Fee:  No.
+",
+ART 440,Pottery IV  ,4 (0-8-0),Course Description: Advanced individual research in pottery form and expression; supportive technology; expression in contemporary American pottery.,Prerequisite:  ART 341.Term Offered: Fall.,,,Grade Mode:  Traditional.,"Special Course Fee:  Yes.
+",
+ART 441,Pottery V  ,4 (0-8-0),Course Description: Advanced individual research in pottery form and expression of personal subject matter; supportive technology.,Prerequisite:  ART 440.Term Offered: Spring.,,,Grade Mode:  Traditional.,"Special Course Fee:  Yes.
+",
+ART 445,Metalsmithing and Jewelry IV  ,4 (0-8-0),"Course Description: Chasing and repousse techniques in two- and three-dimension; inlay, engraving, and etching techniques.",Prerequisite:  ART 345 and ART 346.,,"Terms Offered: Fall, Spring.",Grade Mode:  Traditional.,"Special Course Fee:  Yes.
+",
+ART 446,Metalsmithing and Jewelry V  ,4 (0-8-0),"Course Description: Advanced techniques: granulation, electroforming, photoetching, makume, niello, ferrous metals techniques.",Prerequisite:  ART 345 and ART 346.Term Offered: Spring.,,,Grade Mode:  Traditional.,"Special Course Fee:  Yes.
+",
+ART 450,Fibers IV  ,4 (0-8-0),Course Description: Advanced studio problems in expressive use of fibers and fabric.,Prerequisite:  ART 350 and ART 351.,,"Terms Offered: Fall, Spring.",Grade Mode:  Traditional.,"Special Course Fee:  Yes.
+",,Registration Information: Maximum of 8 credits allowed in the course.
+ART 451,Fibers V  ,4 (0-8-0),Course Description: Advanced studio problems in expressive use of fibers and fabric.,Prerequisite:  ART 351 or ART 450.,,"Terms Offered: Fall, Spring.",Grade Mode:  Traditional.,"Special Course Fee:  Yes.
+",,Registration Information: Maximum of 8 credits allowed in course.
+ART 455,Advanced Typography and Design Systems  ,4 (0-8-0),"Course Description: Two- and three-dimensional solutions for advertising, corporate identity, packaging, and publication design.",Prerequisite:  ART 355.,,,Grade Mode:  Traditional.,"Special Course Fee:  Yes.
+",,Registration Information: Maximum of 8 credits allowed in course.Term Offered: Fall.
+ART 456,Advanced Illustration  ,4 (0-8-0),Course Description: Projects in editorial and reportorial illustration emphasizing techniques applied to solving problems in advanced composition.,Prerequisite:  ART 356.,,,Grade Mode:  Traditional.,"Special Course Fee:  Yes.
+",,Registration Information: Maximum of 8 credits allowed in course.Term Offered: Spring.
+ART 457,Advanced Interactive Media  ,4 (0-8-0),"Course Description: Technical, conceptual, and historic aspects of creating interactive electronic media.",Prerequisite:  (ART 255 or ART 256) and (ART 357).,,"Terms Offered: Fall, Spring, Summer.",Grade Mode:  Traditional.,"Special Course Fee:  No.
+",
+ART 458,Advanced Experimental Video  ,4 (0-8-0),Course Description: Advanced experimental video and visual effects.,Prerequisite:  (ART 255 or ART 256) and (ART 358).Term Offered: Fall.,,,Grade Mode:  Traditional.,"Special Course Fee:  No.
+",
+ART 460,Painting IV--Portfolio Projects  ,4 (0-8-0),"Course Description: Exploration of the fundamental conceptual and logistical challenges involved in developing a proficient, personal art practice in the discipline of painting.",Prerequisite:  ART 361.,,"Terms Offered: Fall, Spring.",Grade Mode:  Traditional.,"Special Course Fee:  No.
+",
+ART 461,Painting V--Capstone Portfolio Projects  ,4 (0-8-0),Course Description: Continuation of personal portfolio development with culminating capstone expectations added.,Prerequisite:  ART 460.,,"Terms Offered: Fall, Summer.",Grade Mode:  Traditional.,"Special Course Fee:  Yes.
+",
+ART 465,Printmaking IV-Studio Workshop  ,4 (0-8-0),"Course Description: Advanced printmaking workshop; intaglio, relief, planographic, and stencil; continued emphasis on individual creative growth.",Prerequisite:  ART 366.,,"Terms Offered: Fall, Spring.",Grade Mode:  Traditional.,"Special Course Fee:  Yes.
+",
+ART 466,Printmaking V-Studio Workshop  ,4 (0-8-0),Course Description: Advanced printmaking concepts in studio and research problems.,Prerequisite:  ART 465.,,"Terms Offered: Fall, Spring.",Grade Mode:  Traditional.,"Special Course Fee:  Yes.
+",,Registration Information: Maximum of 8 credits allowed in course.
+ART 470,Sculpture IV  ,4 (0-8-0),,Prerequisite:  ART 370 and ART 371.,,,Grade Mode:  Traditional.,"Special Course Fee:  Yes.
+",
+ART 471,Sculpture V  ,4 (0-8-0),Course Description: Advanced expression using sculptural techniques.,Prerequisite:  ART 470.,,"Terms Offered: Fall, Spring.",Grade Mode:  Traditional.,"Special Course Fee:  Yes.
+",,Registration Information: Maximum of 8 credits allowed in course.
+ART 482,A  Study Abroad,Art History in Italy  Credit,"Course Description: Special topics in Italian art history; most classes will be taught on-site at museums, churches, and galleries in Italy. Focus on the art and architecture of the famed Michelangelo Buonarroti.",Prerequisite:  ART 212.Term Offered: Spring (every third year).,,,Grade Mode:  Traditional.,"Special Course Fee:  No.
+",
+ART 487,Internship  ,Var[1-4] (0-0-0),Course Description: Supervised work experience in an approved location.,Prerequisite:  None.,,"Terms Offered: Fall, Spring, Summer.",Grade Mode:  Instructor Option.,"Special Course Fee:  No.
+",,Registration Information: Junior or senior standing; written consent of instructor.
+ART 492,A  Seminar: Art History  ,3 (0-0-3),Course Description: Topical studies in Art History.,Prerequisite:  ART 212.,,,Grade Mode:  Traditional.,"Special Course Fee:  No.
+",
+ART 492,B  Seminar: Art Education  ,3 (0-0-3),Course Description: ,Prerequisite:  None.,,"Terms Offered: Fall, Spring, Summer.",Grade Mode:  Instructor Option.,"Special Course Fee:  No.
+",,Registration Information: Must have concurrent registration in ART 326.
+ART 495,A  Independent Study: Painting  ,Var[1-4] (0-0-0),Course Description: ,Prerequisite:  None.,,"Terms Offered: Fall, Spring, Summer.",Grade Mode:  Instructor Option.,"Special Course Fee:  No.
+",,Registration Information: Maximum of 8 credits allowed in course.
+ART 495,B  Independent Study: Printmaking  ,Var[1-4] (0-0-0),Course Description: ,Prerequisite:  None.,,"Terms Offered: Fall, Spring, Summer.",Grade Mode:  Instructor Option.,"Special Course Fee:  Yes.
+",,Registration Information: Maximum of 8 credits allowed in course.
+ART 495,C  Independent Study: Sculpture  ,Var[1-4] (0-0-0),Course Description: ,Prerequisite:  None.,,"Terms Offered: Fall, Spring, Summer.",Grade Mode:  Instructor Option.,"Special Course Fee:  Yes.
+",,Registration Information: Maximum of 8 credits allowed in course.
+ART 495,D  Independent Study: Fibers  ,Var[1-4] (0-0-0),Course Description: ,Prerequisite:  None.,,"Terms Offered: Fall, Spring, Summer.",Grade Mode:  Instructor Option.,"Special Course Fee:  Yes.
+",,Registration Information: Maximum of 8 credits allowed in course.
+ART 495,E  Independent Study: Metalsmithing and Jewelry  ,Var[1-4] (0-0-0),Course Description: ,Prerequisite:  None.,,"Terms Offered: Fall, Spring, Summer.",Grade Mode:  Instructor Option.,"Special Course Fee:  Yes.
+",,Registration Information: Maximum of 8 credits allowed in course.
+ART 495,F  Independent Study: Drawing  ,Var[1-4] (0-0-0),Course Description: ,Prerequisite:  None.,,"Terms Offered: Fall, Spring, Summer.",Grade Mode:  Instructor Option.,"Special Course Fee:  No.
+",,Registration Information: Maximum of 8 credits allowed in course.
+ART 495,G  Independent Study: Graphic Design  ,Var[1-4] (0-0-0),Course Description: ,Prerequisite:  None.,,"Terms Offered: Fall, Spring, Summer.",Grade Mode:  Instructor Option.,"Special Course Fee:  No.
+",,Registration Information: Maximum of 8 credits allowed in course.
+ART 495,H  Independent Study: Art History  ,Var[1-4] (0-0-0),Course Description: ,Prerequisite:  None.,,"Terms Offered: Fall, Spring, Summer.",Grade Mode:  Instructor Option.,"Special Course Fee:  No.
+",,Registration Information: Maximum of 8 credits allowed in course.
+ART 495,I  Independent Study: Art Education  ,Var[1-4] (0-0-0),Course Description: ,Prerequisite:  None.,,"Terms Offered: Fall, Spring, Summer.",Grade Mode:  Instructor Option.,"Special Course Fee:  No.
+",,Registration Information: Maximum of 8 credits allowed in course.
+ART 495,J  Independent Study: Pottery  ,Var[1-4] (0-0-0),Course Description: ,Prerequisite:  None.,,"Terms Offered: Fall, Spring, Summer.",Grade Mode:  Instructor Option.,"Special Course Fee:  Yes.
+",,Registration Information: Maximum of 8 credits allowed in course.
+ART 495,K  Independent Study: Photo Image Making  ,Var[1-4] (0-0-0),Course Description: ,Prerequisite:  ART 330.,,"Terms Offered: Fall, Spring, Summer.",Grade Mode:  Instructor Option.,"Special Course Fee:  Yes.
+",,Registration Information: Maximum of 8 credits allowed in course.
+ART 496,A  Group Study: Painting  ,Var[1-4] (0-0-0),Course Description: ,Prerequisite:  None.,,"Terms Offered: Fall, Spring, Summer.",Grade Mode:  Instructor Option.,"Special Course Fee:  No.
+",,Registration Information: Maximum of 8 credits allowed in course.
+ART 496,B  Group Study: Printmaking  ,Var[1-4] (0-0-0),Course Description: ,Prerequisite:  None.,,"Terms Offered: Fall, Spring, Summer.",Grade Mode:  Instructor Option.,"Special Course Fee:  Yes.
+",,Registration Information: Maximum of 8 credits allowed in course.
+ART 496,C  Group Study: Sculpture  ,Var[1-4] (0-0-0),Course Description: ,Prerequisite:  None.,,"Terms Offered: Fall, Spring, Summer.",Grade Mode:  Instructor Option.,"Special Course Fee:  Yes.
+",,Registration Information: Maximum of 8 credits allowed in course.
+ART 496,D  Group Study: Fibers  ,Var[1-4] (0-0-0),Course Description: ,Prerequisite:  None.,,"Terms Offered: Fall, Spring, Summer.",Grade Mode:  Instructor Option.,"Special Course Fee:  Yes.
+",,Registration Information: Maximum of 8 credits allowed in course.
+ART 496,E  Group Study: Metalsmithing and Jewelry  ,Var[1-4] (0-0-0),Course Description: ,Prerequisite:  None.,,"Terms Offered: Fall, Spring, Summer.",Grade Mode:  Instructor Option.,"Special Course Fee:  Yes.
+",,Registration Information: Maximum of 8 credits allowed in course.
+ART 496,F  Group Study: Drawing  ,Var[1-4] (0-0-0),Course Description: ,Prerequisite:  None.,,"Terms Offered: Fall, Spring, Summer.",Grade Mode:  Instructor Option.,"Special Course Fee:  No.
+",,Registration Information: Maximum of 8 credits allowed in course.
+ART 496,G  Group Study: Graphic Design  ,Var[1-4] (0-0-0),Course Description: ,Prerequisite:  None.,,"Terms Offered: Fall, Spring, Summer.",Grade Mode:  Instructor Option.,"Special Course Fee:  No.
+",,Registration Information: Maximum of 8 credits allowed in course.
+ART 496,H  Group Study: Art History  ,3 (3-0-0),Course Description: Topical studies in Art History.,Prerequisite:  ART 212.,,,Grade Mode:  Traditional.,"Special Course Fee:  No.
+",,Registration Information: Maximum of 9 credits allowed in course.
+ART 496,I  Group Study: Art Education  ,Var[1-4] (0-0-0),Course Description: ,Prerequisite:  None.,,"Terms Offered: Fall, Spring, Summer.",Grade Mode:  Instructor Option.,"Special Course Fee:  No.
+",,Registration Information: Maximum of 8 credits allowed in course.
+ART 496,J  Group Study: Pottery  ,Var[1-4] (0-0-0),Course Description: ,Prerequisite:  None.,,"Terms Offered: Fall, Spring, Summer.",Grade Mode:  Instructor Option.,"Special Course Fee:  Yes.
+",,Registration Information: Maximum of 8 credits allowed in course.
+ART 496,K  Group Study: Photo Image Making  ,Var[1-4] (0-0-0),Course Description: ,Prerequisite:  None.,,"Terms Offered: Fall, Spring, Summer.",Grade Mode:  Instructor Option.,"Special Course Fee:  Yes.
+",,Registration Information: Maximum of 8 credits allowed in course.
+ART 510,A  Advanced Study in Art History: American Art  ,3 (3-0-0),Course Description: ,Prerequisite:  None.,,"Terms Offered: Fall, Spring.",Grade Mode:  Traditional.,"Special Course Fee:  No.
+",,Registration Information: Written consent of instructor.
+ART 510,B  Advanced Study in Art History: East and South African Art  ,3 (3-0-0),Course Description: Arts of southern and East Africa from prehistory through contemporary visual expressions. Engages with current art historical theoretical approaches and practices to gain a nuanced understanding of the arts in these respective regions and their relationship to global art production.,Prerequisite:  None.,,,Grade Mode:  Traditional.,"Special Course Fee:  No.
+",,Registration Information: Written consent of instructor.Term Offered: Fall (even years).
+ART 510,C  Advanced Study in Art History: Pre-Columbian Art  ,3 (3-0-0),Course Description: ,Prerequisite:  None.,,"Terms Offered: Fall, Spring.",Grade Mode:  Instructor Option.,"Special Course Fee:  No.
+",,Registration Information: Written consent of instructor.
+ART 510,E  Advanced Study in Art History: United States Art Since 1945  ,3 (3-0-0),Course Description: ,Prerequisite:  None.,,"Terms Offered: Fall, Spring.",Grade Mode:  Traditional.,"Special Course Fee:  No.
+",,Registration Information: Written consent of instructor.
+ART 510,F  Advanced Study in Art History: Greek Art  ,3 (3-0-0),Course Description: ,Prerequisite:  None.,,"Terms Offered: Fall, Spring.",Grade Mode:  Traditional.,"Special Course Fee:  No.
+",,Registration Information: Written consent of instructor.
+ART 510,G  Advanced Study in Art History: Medieval Art  ,3 (3-0-0),Course Description: ,Prerequisite:  None.,,"Terms Offered: Fall, Spring.",Grade Mode:  Traditional.,"Special Course Fee:  No.
+",,Registration Information: Written consent of instructor.
+ART 510,H  Advanced Study in Art History: Renaissance Art  ,3 (3-0-0),Course Description: ,Prerequisite:  None.,,"Terms Offered: Fall, Spring.",Grade Mode:  Traditional.,"Special Course Fee:  No.
+",,Registration Information: Written consent of instructor.
+ART 510,I  Advanced Study in Art History: Baroque and Rococo Art  ,3 (3-0-0),Course Description: ,Prerequisite:  None.,,"Terms Offered: Fall, Spring.",Grade Mode:  Traditional.,"Special Course Fee:  No.
+",,Registration Information: Written consent of instructor.
+ART 510,J  Advanced Study in Art History: 19th-Century European Art  ,3 (3-0-0),Course Description: ,Prerequisite:  None.,,"Terms Offered: Fall, Spring.",Grade Mode:  Traditional.,"Special Course Fee:  No.
+",,Registration Information: Written consent of instructor.
+ART 510,K  Advanced Study in Art History: 20th Century European Art  ,3 (3-0-0),Course Description: ,Prerequisite:  None.,,"Terms Offered: Fall, Spring.",Grade Mode:  Traditional.,"Special Course Fee:  No.
+",,Registration Information: Written consent of instructor.
+ART 510,L  Advanced Study in Art History: West and Central Africa  ,3 (3-0-0),Course Description: Focuses on the arts of West and Central Africa from prehistory through contemporary visual expressions. Engages with current art historical theoretical approaches and practices in order to gain a nuanced understanding of the arts in these respective regions and their relationship to global art production.,Prerequisite:  None.Term Offered: Fall (odd years).,,,Grade Mode:  Traditional.,"Special Course Fee:  No.
+",
+ART 510,M  Advanced Study in Art History: Roman Art  ,3 (3-0-0),Course Description: ,Prerequisite:  None.,,"Terms Offered: Fall, Spring.",Grade Mode:  Traditional.,"Special Course Fee:  No.
+",,Registration Information: Written consent of instructor.
+ART 510,N  Advanced Study in Art History: Graphic Design  ,3 (3-0-0),Course Description: ,Prerequisite:  None.,,"Terms Offered: Fall, Spring.",Grade Mode:  Traditional.,"Special Course Fee:  No.
+",,Registration Information: Written consent of instructor.
+ART 510,O  Advanced Study in Art History: Women in Art  ,3 (3-0-0),Course Description: ,Prerequisite:  None.,,"Terms Offered: Fall, Spring.",Grade Mode:  Traditional.,"Special Course Fee:  No.
+",,Registration Information: Written consent of instructor.
+ART 510,P  Advanced Study in Art History: Pacific Art  ,3 (3-0-0),Course Description: ,Prerequisite:  None.,,"Terms Offered: Fall, Spring.",Grade Mode:  Traditional.,"Special Course Fee:  No.
+",,Registration Information: Written consent of instructor.
+ART 510,Q  Advanced Study in Art History: Contemporary Art and Art Critics  ,3 (3-0-0),Course Description: ,Prerequisite:  None.,,"Terms Offered: Fall, Spring.",Grade Mode:  Traditional.,"Special Course Fee:  No.
+",,Registration Information: Written consent of instructor.
+ART 510,R  Advanced Study in Art History: Native North American Art  ,3 (3-0-0),Course Description: Graduate study in the history of Native North American art.,Prerequisite:  None.,,,Grade Mode:  Traditional.,"Special Course Fee:  No.
+",,Registration Information: Graduate standing.Term Offered: Fall.
+ART 514,Contemporary American Art Critics and Artists  ,3 (0-0-3),Course Description: Issues in contemporary American art are explored through the work of critics and artists who visit through the Critic and Artist Residency Series.,Prerequisite:  ART 510E.Term Offered: Spring (even years).,,,Grade Mode:  Traditional.,"Special Course Fee:  No.
+",
+ART 515,Seminar-Contemporary Art Theory  ,3 (0-0-3),Course Description: Relationship between critical theory and the visual arts; how artists and critics apply theory in their work.,Prerequisite:  ART 510E.Term Offered: Fall.,,,Grade Mode:  Traditional.,"Special Course Fee:  No.
+",
+ART 521,Art and Environment - Advanced Study  ,3 (0-6-0),"Course Description: Interdisciplinary studio/seminar course investigating art's relationship to the environment through readings, field trips, presentations and studio practice.",Prerequisite:  None.,,,Grade Mode:  Traditional.,"Special Course Fee:  Yes.
+",,"Registration Information: Graduate standing in the Art and Art History Department. Required field trips. Credit allowed for only one of the following: ART 380A1, ART 421, ART 521 or ART680A1."
+ART 575,A  Studio Problems: Painting  ,Var[1-15] (0-0-0),Course Description: ,Prerequisite:  None. Restriction: .,,"Terms Offered: Fall, Spring, Summer.",Grade Mode:  Traditional.,"Special Course Fee:  No.
+",,Registration Information: Acceptance into MFA program required.
+ART 575,B  Studio Problems: Printmaking  ,Var[1-15] (0-0-0),Course Description: ,Prerequisite:  None. Restriction: .,,"Terms Offered: Fall, Spring, Summer.",Grade Mode:  Traditional.,"Special Course Fee:  Yes.
+",,Registration Information: Acceptance into MFA program required.
+ART 575,C  Studio Problems: Sculpture  ,Var[1-15] (0-0-0),Course Description: ,Prerequisite:  None. Restriction: .,,"Terms Offered: Fall, Spring, Summer.",Grade Mode:  Traditional.,"Special Course Fee:  Yes.
+",,Registration Information: Acceptance into MFA program required.
+ART 575,D  Studio Problems: Fibers  ,Var[1-15] (0-0-0),Course Description: ,Prerequisite:  None. Restriction: .,,"Terms Offered: Fall, Spring, Summer.",Grade Mode:  Traditional.,"Special Course Fee:  Yes.
+",,Registration Information: Acceptance into MFA program required.
+ART 575,E  Studio Problems: Metalsmithing and Jewelry  ,Var[1-15] (0-0-0),Course Description: ,Prerequisite:  None.,,"Terms Offered: Fall, Spring, Summer.",Grade Mode:  Traditional.,"Special Course Fee:  Yes.
+",,Registration Information: Acceptance into MFA program required.
+ART 575,F  Studio Problems: Drawing  ,Var[1-15] (0-0-0),Course Description: ,Prerequisite:  None. Restriction: .,,"Terms Offered: Fall, Spring, Summer.",Grade Mode:  Traditional.,"Special Course Fee:  No.
+",,Registration Information: Acceptance into MFA program required.
+ART 575,G  Studio Problems: Graphic Design  ,Var[1-15] (0-0-0),Course Description: ,Prerequisite:  None. Restriction: .,,"Terms Offered: Fall, Spring, Summer.",Grade Mode:  Traditional.,"Special Course Fee:  No.
+",,Registration Information: Acceptance into MFA program required.
+ART 592,Art History Seminar  ,3 (0-0-3),Course Description: ,Prerequisite:  None.,,,Grade Mode:  Instructor Option.,"Special Course Fee:  No.
+",,Registration Information: Required for course admittance: Twenty-one credits of art history.Term Offered: Spring.
+ART 675,A  Studio Problems: Painting  ,Var[1-15] (0-0-0),Course Description: ,"Prerequisite:  ART 575A - at least 10 credits. Restriction: Must be a: Graduate, Professional.",,"Terms Offered: Fall, Spring, Summer.",Grade Mode:  Traditional.,"Special Course Fee:  No.
+",
+ART 675,B  Studio Problems: Printmaking  ,Var[1-15] (0-0-0),Course Description: ,"Prerequisite:  ART 575B - at least 10 credits. Restriction: Must be a: Graduate, Professional.",,"Terms Offered: Fall, Spring, Summer.",Grade Mode:  Traditional.,"Special Course Fee:  Yes.
+",
+ART 675,C  Studio Problems: Sculpture  ,Var[1-15] (0-0-0),Course Description: ,"Prerequisite:  ART 575C - at least 10 credits. Restriction: Must be a: Graduate, Professional.",,"Terms Offered: Fall, Spring, Summer.",Grade Mode:  Traditional.,"Special Course Fee:  Yes.
+",
+ART 675,D  Studio Problems: Fibers  ,Var[1-15] (0-0-0),Course Description: ,"Prerequisite:  ART 575D - at least 10 credits. Restriction: Must be a: Graduate, Professional.",,"Terms Offered: Fall, Spring, Summer.",Grade Mode:  Traditional.,"Special Course Fee:  Yes.
+",
+ART 675,E  Studio Problems: Metalsmithing and Jewelry  ,Var[1-15] (0-0-0),Course Description: ,"Prerequisite:  ART 575E - at least 10 credits. Restriction: Must be a: Graduate, Professional.",,"Terms Offered: Fall, Spring, Summer.",Grade Mode:  Traditional.,"Special Course Fee:  Yes.
+",
+ART 675,F  Studio Problems: Drawing  ,Var[1-15] (0-0-0),Course Description: ,"Prerequisite:  ART 575F - at least 10 credits. Restriction: Must be a: Graduate, Professional.",,"Terms Offered: Fall, Spring, Summer.",Grade Mode:  Traditional.,"Special Course Fee:  No.
+",
+ART 675,G  Studio Problems: Graphic Design  ,Var[1-15] (0-0-0),Course Description: ,"Prerequisite:  ART 575G - at least 10 credits. Restriction: Must be a: Graduate, Professional.",,"Terms Offered: Fall, Spring, Summer.",Grade Mode:  Traditional.,"Special Course Fee:  No.
+",
+ART 684,Supervised College Teaching  ,Var[1-18] (0-0-0),Course Description: ,"Prerequisite:  None. Restriction: Must be a: Graduate, Professional.",,"Terms Offered: Fall, Spring, Summer.",Grade Mode:  Instructor Option.,"Special Course Fee:  No.
+",
+ART 695,A  Independent Study: Painting  ,Var[1-18] (0-0-0),Course Description: ,"Prerequisite:  None. Restriction: Must be a: Graduate, Professional.",,"Terms Offered: Fall, Summer.",Grade Mode:  Instructor Option.,"Special Course Fee:  No.
+",
+ART 695,B  Independent Study: Printmaking  ,Var[1-18] (0-0-0),Course Description: ,"Prerequisite:  None. Restriction: Must be a: Graduate, Professional.",,"Terms Offered: Fall, Summer.",Grade Mode:  Instructor Option.,"Special Course Fee:  Yes.
+",
+ART 695,C  Independent Study: Sculpture  ,Var[1-18] (0-0-0),Course Description: ,"Prerequisite:  None. Restriction: Must be a: Graduate, Professional.",,"Terms Offered: Fall, Summer.",Grade Mode:  Instructor Option.,"Special Course Fee:  Yes.
+",
+ART 695,D  Independent Study: Fibers  ,Var[1-18] (0-0-0),Course Description: ,"Prerequisite:  None. Restriction: Must be a: Graduate, Professional.",,"Terms Offered: Fall, Summer.",Grade Mode:  Instructor Option.,"Special Course Fee:  Yes.
+",
+ART 695,E  Independent Study: Metalsmithing and Jewelry  ,Var[1-18] (0-0-0),Course Description: ,"Prerequisite:  None. Restriction: Must be a: Graduate, Professional.",,"Terms Offered: Fall, Summer.",Grade Mode:  Instructor Option.,"Special Course Fee:  Yes.
+",
+ART 695,F  Independent Study: Drawing  ,Var[1-18] (0-0-0),Course Description: ,"Prerequisite:  None. Restriction: Must be a: Graduate, Professional.",,"Terms Offered: Fall, Spring, Summer.",Grade Mode:  Instructor Option.,"Special Course Fee:  No.
+",
+ART 695,G  Independent Study: Graphic Design  ,Var[1-18] (0-0-0),Course Description: ,"Prerequisite:  None. Restriction: Must be a: Graduate, Professional.",,"Terms Offered: Fall, Summer.",Grade Mode:  Instructor Option.,"Special Course Fee:  No.
+",
+ART 695,H  Independent Study: Art History  ,Var[1-18] (0-0-0),Course Description: ,"Prerequisite:  None. Restriction: Must be a: Graduate, Professional.",,"Terms Offered: Fall, Summer.",Grade Mode:  Instructor Option.,"Special Course Fee:  No.
+",
+ART 696,A  Group Study: Painting  ,Var[1-18] (0-0-0),Course Description: ,"Prerequisite:  None. Restriction: Must be a: Graduate, Professional.",,"Terms Offered: Fall, Spring, Summer.",Grade Mode:  Instructor Option.,"Special Course Fee:  No.
+",
+ART 696,B  Group Study: Printmaking  ,Var[1-18] (0-0-0),Course Description: ,"Prerequisite:  None. Restriction: Must be a: Graduate, Professional.",,"Terms Offered: Fall, Spring, Summer.",Grade Mode:  Instructor Option.,"Special Course Fee:  No.
+",
+ART 696,C  Group Study: Sculpture  ,Var[1-18] (0-0-0),Course Description: ,"Prerequisite:  None. Restriction: Must be a: Graduate, Professional.",,"Terms Offered: Fall, Spring, Summer.",Grade Mode:  Instructor Option.,"Special Course Fee:  No.
+",
+ART 696,D  Group Study: Fibers  ,Var[1-18] (0-0-0),Course Description: ,"Prerequisite:  None. Restriction: Must be a: Graduate, Professional.",,"Terms Offered: Fall, Spring, Summer.",Grade Mode:  Instructor Option.,"Special Course Fee:  No.
+",
+ART 696,E  Group Study: Metalsmithing and Jewelry  ,Var[1-18] (0-0-0),Course Description: ,"Prerequisite:  None. Restriction: Must be a: Graduate, Professional.",,"Terms Offered: Fall, Spring, Summer.",Grade Mode:  Instructor Option.,"Special Course Fee:  No.
+",
+ART 696,F  Group Study: Drawing  ,Var[1-18] (0-0-0),Course Description: ,"Prerequisite:  None. Restriction: Must be a: Graduate, Professional.",,"Terms Offered: Fall, Spring, Summer.",Grade Mode:  Instructor Option.,"Special Course Fee:  No.
+",
+ART 696,G  Group Study: Graphic Design  ,Var[1-18] (0-0-0),Course Description: ,"Prerequisite:  None. Restriction: Must be a: Graduate, Professional.",,"Terms Offered: Fall, Spring, Summer.",Grade Mode:  Instructor Option.,"Special Course Fee:  No.
+",
+ART 696,H  Group Study: Art History  ,Var[1-18] (0-0-0),Course Description: ,"Prerequisite:  None. Restriction: Must be a: Graduate, Professional.",,"Terms Offered: Fall, Spring, Summer.",Grade Mode:  Instructor Option.,"Special Course Fee:  No.
+",
+ART 696,I  Group Study: Multiple Media  ,Var[1-18] (0-0-0),Course Description: ,"Prerequisite:  None. Restriction: Must be a: Graduate, Professional.",,"Terms Offered: Fall, Spring, Summer.",Grade Mode:  Instructor Option.,"Special Course Fee:  No.
+",
+ART 699,A  Thesis: Painting  ,Var[1-18] (0-0-0),Course Description: ,"Prerequisite:  None. Restriction: Must be a: Graduate, Professional.",,"Terms Offered: Fall, Spring, Summer.",Grade Mode:  Instructor Option.,"Special Course Fee:  No.
+",,Registration Information: Must have taken twelve credits in ART 575A and/or ART 675A.
+ART 699,B  Thesis: Printmaking  ,Var[1-18] (0-0-0),Course Description: ,"Prerequisite:  None. Restriction: Must be a: Graduate, Professional.",,"Terms Offered: Fall, Spring, Summer.",Grade Mode:  Instructor Option.,"Special Course Fee:  Yes.
+",,Registration Information: Must have taken twelve credits in ART 575B and/or ART 675B.
+ART 699,C  Thesis: Sculpture  ,Var[1-18] (0-0-0),Course Description: ,"Prerequisite:  None. Restriction: Must be a: Graduate, Professional.",,"Terms Offered: Fall, Spring, Summer.",Grade Mode:  Instructor Option.,"Special Course Fee:  Yes.
+",,Registration Information: Must have taken twelve credits in ART 575C and/or ART 675C.
+ART 699,D  Thesis: Fibers  ,Var[1-18] (0-0-0),Course Description: ,"Prerequisite:  None. Restriction: Must be a: Graduate, Professional.",,"Terms Offered: Fall, Spring, Summer.",Grade Mode:  Instructor Option.,"Special Course Fee:  Yes.
+",,Registration Information: Must have taken twelve credits in ART 575D and/or ART 675D.
+ART 699,E  Thesis: Metalsmithing and Jewelry  ,Var[1-18] (0-0-0),Course Description: ,"Prerequisite:  None. Restriction: Must be a: Graduate, Professional.",,"Terms Offered: Fall, Spring, Summer.",Grade Mode:  Instructor Option.,"Special Course Fee:  Yes.
+",,Registration Information: Must have taken twelve credits in ART 575E and/or ART 675E.
+ART 699,F  Thesis: Drawing  ,Var[1-18] (0-0-0),Course Description: ,"Prerequisite:  None. Restriction: Must be a: Graduate, Professional.",,"Terms Offered: Fall, Spring, Summer.",Grade Mode:  Instructor Option.,"Special Course Fee:  No.
+",,Registration Information: Must have taken twelve credits in ART 575F and/or ART 675F.
+ART 699,G  Thesis: Graphic Design  ,Var[1-18] (0-0-0),Course Description: ,"Prerequisite:  None. Restriction: Must be a: Graduate, Professional.",,"Terms Offered: Fall, Spring, Summer.",Grade Mode:  Instructor Option.,"Special Course Fee:  No.
+",,Registration Information: Must have taken twelve credits in ART 575G and/or ART 675G.

@@ -1,0 +1,135 @@
+code,name,credits,description,prerequisite,registration,termsOffered,gradeMode,additionalInformation
+BC 192,Biochemistry Freshman Seminar  ,2 (1-0-1),Course Description: Introduction to curriculum and career options for biochemistry majors.,Prerequisite:  None.,,,Grade Mode:  Traditional.,"Special Course Fee:  No.
+",,Registration Information: Must register for lecture and recitation.Term Offered: Fall.
+BC 295,Introductory Independent Study  ,Var[1-3] (0-0-0),Course Description: Apply principles and knowledge being learned in first and second year life sciences and chemistry courses.,"Prerequisite:  LIFE 102 or CHEM 112, may be taken concurrently.",,"Terms Offered: Fall, Spring, Summer.",Grade Mode:  Instructor Option.,"Special Course Fee:  No.
+",
+BC 351,Principles of Biochemistry  ,4 (4-0-0),Course Description: Structure and function of biological molecules; biocatalysis; metabolism and energy transduction.,Prerequisite:  (BZ 110 or BZ 120 or LIFE 102) and (CHEM 241 or CHEM 245 or CHEM 341 or CHEM 345).,,"Terms Offered: Fall, Spring, Summer.",Grade Mode:  Traditional.,"Special Course Fee:  No.
+",,"Registration Information: For majors in biological sciences, engineering, and preprofessional students in the health sciences. Sections may be offered: Online."
+BC 353,Pre-Health Genetics  ,4 (4-0-0),Course Description: Applies and extends the biochemical concepts learned in BC 351 to macromolecules and molecular processes based on nucleic acids.,Prerequisite:  BC 351.,,"Terms Offered: Fall, Spring, Summer.",Grade Mode:  Traditional.,"Special Course Fee:  No.
+",,Registration Information: Sections may be offered: Online.
+BC 360,Responsible Conduct in Biochemical Research  Credit,1 (1-0-0),Course Description: Research ethics and the responsible conduct of research.,Prerequisite:  LIFE 212.,,"Terms Offered: Fall, Spring.",Grade Mode:  Traditional.,"Special Course Fee:  No.
+",,Registration Information: Sophomore standing. Biochemistry majors only. This is a partial semester course.
+BC 401,Comprehensive Biochemistry I  ,3 (3-0-0),Course Description: Macromolecular structure and dynamics; membranes; enzymes; bioenergetics.,"Prerequisite:  (CHEM 245 or CHEM 343, may be taken concurrently or CHEM 346, may be taken concurrently) and (MATH 155 or MATH 160).",,"Terms Offered: Fall, Spring.",Grade Mode:  Traditional.,"Special Course Fee:  No.
+",,Registration Information: Sophomore standing. Sections may be offered: Online.
+BC 403,Comprehensive Biochemistry II  ,3 (3-0-0),Course Description: Metabolic pathways and their regulation; cellular biochemistry.,Prerequisite:  CHEM 245 or CHEM 341 or CHEM 345.,,"Terms Offered: Fall, Spring.",Grade Mode:  Traditional.,"Special Course Fee:  No.
+",,Registration Information: Sophomore standing. Sections may be offered: Online.
+BC 404,Comprehensive Biochemistry Laboratory  ,2 (0-6-0),"Course Description: Experimental approaches to studying macromolecules, metabolism, and gene expressions.","Prerequisite:  (BC 401, may be taken concurrently) and (CHEM 246 or CHEM 344 or CHEM 346) and (LIFE 212 and LIFE 203).",,"Terms Offered: Fall, Spring.",Grade Mode:  Traditional.,"Special Course Fee:  Yes.
+",
+BC 405,Comprehensive Biochemistry II--Honors Recitation  Credit,1 (0-0-1),Course Description: Read and discuss current literature related to material presented in BC 403.,Prerequisite:  None.,,,Grade Mode:  Traditional.,"Special Course Fee:  No.
+",,Registration Information: Must have concurrent registration in BC 403. For students participating in the Honors program.Term Offered: Spring.
+BC 406,A  Investigative Biochemistry: Protein Biochemistry  ,2 (0-4-0),Course Description: Advanced inquiry-based protein chemistry and molecular biology lab.,Prerequisite:  BC 404.,,"Terms Offered: Fall, Spring.",Grade Mode:  Traditional.,"Special Course Fee:  Yes.
+",,Registration Information: This is a partial semester course.
+BC 406,B  Investigative Biochemistry: Molecular Genetics  ,2 (1-3-0),Course Description: Advanced biochemical and molecular biological techniques and a problem-solving approach to molecular genetics.,Prerequisite:  BC 404.,,"Terms Offered: Fall, Spring.",Grade Mode:  Traditional.,"Special Course Fee:  Yes.
+",,Registration Information: Must register for lecture and laboratory.
+BC 406,C  Investigative Biochemistry: Cellular Biochemistry  ,2 (1-3-0),Course Description: Advanced biochemical and molecular biological techniques and a problem-solving approach to cellular biochemistry.,Prerequisite:  BC 404.,,"Terms Offered: Fall, Spring.",Grade Mode:  Traditional.,"Special Course Fee:  Yes.
+",,Registration Information: Must register for lecture and laboratory.
+BC 411,Physical Biochemistry  ,4 (3-0-1),Course Description: Thermodynamics; reaction rates; quantum chemistry; spectroscopy; macromolecular folding and interactions; ligand binding; enzyme kinetics; membranes.,Prerequisite:  (BC 351 with a minimum grade of B or BC 401) and (CHEM 113) and (MATH 161 or MATH 255).Term Offered: Fall.,,,Grade Mode:  Traditional.,"Special Course Fee:  No.
+",
+BC 441,3D Molecular Models for Biochemistry  Credit,1 (0-1.5-.5),Course Description: Computer instruction to construct 3D models of proteins and nucleic acids using leading software.,"Prerequisite:  BC 401, may be taken concurrently.",,,Grade Mode:  Traditional.,"Special Course Fee:  No.
+",,Registration Information: Must register for laboratory and recitation.Term Offered: Fall.
+BC 463,Molecular Genetics  ,3 (3-0-0),"Course Description: Molecular basis of gene structure, replication, repair, recombination, and expression.","Prerequisite:  (BC 401 with a minimum grade of C, may be taken concurrently or BC 351 with a minimum grade of C) and (LIFE 201B with a minimum grade of C or BZ 350 with a minimum grade of C).",,,Grade Mode:  Traditional.,"Special Course Fee:  No.
+",,Registration Information: Credit not allowed for both BC 463 and BC 563.Term Offered: Fall.
+BC 464,Molecular Genetics Recitation  Credit,1 (0-0-1),"Course Description: Methods used to study the molecular basis of gene structure, replication, repair, recombination, and expression.","Prerequisite:  (LIFE 201B) and (BC 351, may be taken concurrently or BC 401, may be taken concurrently).",,,Grade Mode:  Traditional.,"Special Course Fee:  No.
+",,Registration Information: Must have concurrent registration in BC 463.Term Offered: Fall.
+BC 465,Molecular Regulation of Cell Function  ,3 (3-0-0),"Course Description: Molecular regulation of cell organization, membrane formation, organelle biogenesis, cell communication, shape and motility, growth, aging, and death.","Prerequisite:  (LIFE 210) and (BC 403, may be taken concurrently or BC 351).",,"Terms Offered: Spring, Summer.",Grade Mode:  Traditional.,"Special Course Fee:  No.
+",,Registration Information: Sections may be offered: Online. Credit not allowed for both BC 465 and BC 565.
+BC 466,Molecular Regulation of Cell Function-Honors  Credit,1 (0-0-1),Course Description: Discussions of current articles in cell biology including methods and molecular mechanisms that explain cell behavior in health and disease.,Prerequisite:  None.,,,Grade Mode:  Traditional.,"Special Course Fee:  No.
+",,Registration Information: Must have concurrent registration in BC 465.Term Offered: Spring.
+BC 467,Biochemistry of Disease  ,3 (3-0-0),Course Description: Biochemical basis of specific human diseases.,Prerequisite:  BC 401.Term Offered: Spring.,,,Grade Mode:  Traditional.,"Special Course Fee:  No.
+",
+BC 475,Mentored Research  ,3 (0-6-1),"Course Description: Plan and conduct mentored research with weekly discussion of progress, presentation at all-university symposium,  and submission of written report.",Prerequisite:  BC 404.,,"Terms Offered: Fall, Spring, Summer.",Grade Mode:  Traditional.,"Special Course Fee:  No.
+",,Registration Information: Must register for laboratory and recitation. Maximum of 9 credits allowed in course.
+BC 484,Supervised College Teaching  ,Var[1-18] (0-0-0),Course Description: Assist in teaching selected courses in biochemistry and molecular biology.,Prerequisite:  None.,,"Terms Offered: Fall, Spring, Summer.",Grade Mode:  Instructor Option.,"Special Course Fee:  No.
+",,Registration Information: A maximum of 10 combined credits for all 384 and 484 courses are counted towards graduation requirements.
+BC 487,A  Internship  ,Var[1-18] (0-0-0),Course Description: Work experience with an approved preceptor outside of a university laboratory environment.,Prerequisite:  BC 401 and BC 403 and BC 404.,,"Terms Offered: Fall, Spring, Summer.",Grade Mode:  Instructor Option.,"Special Course Fee:  No.
+",,Registration Information: Written consent of instructor. Minimum GPA of 2.0.
+BC 487,B  Internship: International  ,Var[1-18] (0-0-0),Course Description: Research in foreign host laboratory in contact with CSU mentor.,Prerequisite:  BC 401 and BC 463 and BC 495 - at least 1 credit.,,"Terms Offered: Fall, Spring, Summer.",Grade Mode:  Instructor Option.,"Special Course Fee:  No.
+",,Registration Information: Selection by departmental committee. BC 495 (one credit in lab of CSU mentor).
+BC 493,Senior Seminar  Credit,1 (0-0-1),Course Description: Critical analysis of selected literature in biochemistry and molecular biology.,Prerequisite:  None.,,"Terms Offered: Fall, Spring.",Grade Mode:  Instructor Option.,"Special Course Fee:  No.
+",,Registration Information: BC 401 or concurrent registration.
+BC 495,Independent Study  ,Var[1-18] (0-0-0),Course Description: ,Prerequisite:  None.,,"Terms Offered: Fall, Spring, Summer.",Grade Mode:  Instructor Option.,"Special Course Fee:  No.
+",,Registration Information: Minimum cumulative GPA of 3.0.
+BC 496,Group Study  ,Var[1-18] (0-0-0),Course Description: Faculty-directed exploration of areas of special interest in biochemistry and molecular biology.,Prerequisite:  None.,,"Terms Offered: Fall, Spring, Summer.",Grade Mode:  Instructor Option.,"Special Course Fee:  No.
+",
+BC 498,Research  ,Var[1-6] (0-0-0),Course Description: Supervised laboratory research in biochemistry and molecular biology.,Prerequisite:  None.,,"Terms Offered: Fall, Spring, Summer.",Grade Mode:  Instructor Option.,"Special Course Fee:  No.
+",
+BC 499,A  Thesis: Laboratory Research-Based  ,3 (0-0-3),Course Description: Laboratory-based research thesis.,Prerequisite:  None.,,"Terms Offered: Fall, Spring, Summer.",Grade Mode:  Traditional.,"Special Course Fee:  No.
+",
+BC 499,B  Thesis: Literature Based  ,3 (0-0-3),Course Description: Thesis - Literature-based in Gen. Biochemistry.,Prerequisite:  BC 493.,,"Terms Offered: Fall, Spring, Summer.",Grade Mode:  Traditional.,"Special Course Fee:  No.
+",
+BC 499,C  Thesis: Literature-based in Health and Med Sci  ,3 (0-0-3),Course Description: Thesis - Literature-based in Health and Med. Sci.,Prerequisite:  BC 493.,,"Terms Offered: Fall, Spring, Summer.",Grade Mode:  Traditional.,"Special Course Fee:  No.
+",
+BC 499,D  Thesis: Literature-based in Pre-Pharmacy  ,3 (0-0-3),Course Description: Thesis - Literature-based in Pre-Pharmacy.,Prerequisite:  BC 493.,,"Terms Offered: Fall, Spring, Summer.",Grade Mode:  Traditional.,"Special Course Fee:  No.
+",
+BC 499,E  Thesis: Literature-based in Neurobiochemistry  ,3 (0-0-3),Course Description: Thesis - Literature-based in Neurobiochemistry.,"Prerequisite:  BC 493, may be taken concurrently.",,"Terms Offered: Fall, Spring, Summer.",Grade Mode:  Traditional.,"Special Course Fee:  No.
+",
+BC 511,Structural Biology I  ,4 (3-0-1),Course Description: Structural principles of biological macromolecules and techniques of structural analysis.,"Prerequisite:  BC 401, may be taken concurrently.",,,Grade Mode:  Traditional.,"Special Course Fee:  No.
+",,Registration Information: Must register for lecture and recitation.Term Offered: Fall.
+BC 512,Principles of Macromolecular Structure  Credit,1 (1-0-0),"Course Description: Physical interactions controlling folding and solution behavior of biological macromolecules, including proteins, nucleic acids, and membranes.","Prerequisite:  BC 411, may be taken concurrently.Term Offered: Fall.",,,Grade Mode:  Traditional.,"Special Course Fee:  No.
+",
+BC 513,Enzymology  Credit,1 (1-0-0),"Course Description: Kinetic methods, mechanism, and regulation of enzyme catalysis.",Prerequisite:  BC 403.Term Offered: Spring.,,,Grade Mode:  Traditional.,"Special Course Fee:  No.
+",
+BC 517,Metabolism  ,2 (2-0-0),Course Description: Design and regulation of metabolic pathways.,Prerequisite:  BC 351 and BC 403.,,"Terms Offered: Fall, Spring.",Grade Mode:  Traditional.,"Special Course Fee:  No.
+",
+BC 521,Principles of Chemical Biology  ,3 (3-0-0),Course Description: Principles of chemical biology. Chemical methods for understanding and controlling the structure and function of biopolymers.,Prerequisite:  CHEM 245 or CHEM 343 or CHEM 346.,,,Grade Mode:  Traditional.,"Special Course Fee:  No.
+",,Also Offered As:  CHEM 521.,Registration Information: Credit not allowed for both BC 521 and CHEM 521.Term Offered: Fall.
+BC 563,Molecular Genetics  ,4 (3-0-1),"Course Description: Mechanisms of replication, transcription, processing, translation, and packaging of genetic material, emphasizing original literature and methods.",Prerequisite:  BC 401 and LIFE 201B.,,,Grade Mode:  Traditional.,"Special Course Fee:  No.
+",,Registration Information: Must register for lecture and recitation. Credit not allowed for both BC 563 and BC 463.Term Offered: Fall.
+BC 565,Molecular Regulation of Cell Function  ,4 (3-0-1),"Course Description: Molecular regulation of cell organization, membrane formation, organelle biogenesis, cell communication, shape and motility, growth, aging, and death.","Prerequisite:  (LIFE 210) and (BC 351 or BC 403, may be taken concurrently).",,,Grade Mode:  Traditional.,"Special Course Fee:  No.
+",,Registration Information: Credit not allowed for both BC 565 and BC 465. Must register for lecture and recitation.Term Offered: Spring.
+BC 566,Advanced Topics in Mitotic Processes  Credit,1 (1-0-0),"Course Description: Mitotic spindle, microtubules, kinetochores, and molecular motors, specifically during cell division.",Prerequisite:  BC 465 or BC 565. Restriction: .,,"Terms Offered: Fall, Spring.",Grade Mode:  Traditional.,"Special Course Fee:  No.
+",,Registration Information: Written consent of instructor.
+BC 571,Quantitative Biochemistry  Credit,1 (1-0-0),"Course Description: Introduction to statistics, error analysis, and curve fitting of biochemical data with a focus on practical examples.","Prerequisite:  BC 511, may be taken concurrently.Term Offered: Spring.",,,Grade Mode:  Traditional.,"Special Course Fee:  No.
+",
+BC 589,Current Trends in Molecular Biosciences  ,2 (1-2-0),Course Description: Biochemical and molecular biological foundations of molecular genetics/genetic engineering; molecular analysis of genes.,Prerequisite:  None.,,,"Grade Modes:  S/U within Student Option, Trad within Student Option.","Special Course Fee:  No.
+",,Registration Information: B.S. or B.A. in biology or chemistry; secondary school teaching certification required. Offered as an online course only.Term Offered: Summer.
+BC 598,Research  ,Var[1-9] (0-0-0),Course Description: Biochemistry research in a research laboratory.,Prerequisite:  BC 401.,,"Terms Offered: Fall, Spring, Summer.",Grade Mode:  Traditional.,"Special Course Fee:  No.
+",,Registration Information: Written consent of advisor.
+BC 601,Responsible Conduct in Biochemistry  Credit,1 (1-0-0),"Course Description: Design of experiments; error and fraud, publishing/grant application submission, scientific misconduct, classic examples of fraud, case studies.","Prerequisite:  None. Restriction: Must be a: Graduate, Professional.Term Offered: Spring. (even years).",,,Grade Mode:  Traditional.,"Special Course Fee:  No.
+",
+BC 611,Structural Biology II  ,2 (2-0-0),Course Description: Structure and interactions of biological macromolecules related to function.,"Prerequisite:  BC 511. Restriction: Must be a: Graduate, Professional.Term Offered: Spring.",,,Grade Mode:  Traditional.,"Special Course Fee:  No.
+",
+BC 663,Gene Expression  ,2 (2-0-0),Course Description: Eukaryotic transcription mechanisms with emphasis on methods of study and regulatory mechanisms.,"Prerequisite:  BC 563. Restriction: Must be a: Graduate, Professional.Term Offered: Spring.",,,Grade Mode:  Traditional.,"Special Course Fee:  No.
+",
+BC 665,A  Advanced Topics in Cell Regulation: Microscopic Methods  ,2 (2-0-0),"Course Description: Analysis of cell behavior, function and regulation.","Prerequisite:  BC 565. Restriction: Must be a: Graduate, Professional.",,"Terms Offered: Fall, Spring.",Grade Mode:  Traditional.,"Special Course Fee:  No.
+",
+BC 665,B  Advanced Topics in Cell Regulation: Modern Methods  ,2 (2-0-0),Course Description: Modern methods in cell biology.,"Prerequisite:  BC 565. Restriction: Must be a: Graduate, Professional.",,"Terms Offered: Fall, Spring.",Grade Mode:  Traditional.,"Special Course Fee:  No.
+",
+BC 695,Independent Study  ,Var[1-18] (0-0-0),Course Description: ,"Prerequisite:  None. Restriction: Must be a: Graduate, Professional.",,"Terms Offered: Fall, Spring, Summer.",Grade Mode:  S/U Sat/Unsat Only.,"Special Course Fee:  No.
+",
+BC 698,Research  ,Var[1-18] (0-0-0),Course Description: ,"Prerequisite:  None. Restriction: Must be a: Graduate, Professional.",,"Terms Offered: Fall, Spring, Summer.",Grade Mode:  S/U Sat/Unsat Only.,"Special Course Fee:  No.
+",
+BC 699,Thesis  ,Var[1-18] (0-0-0),Course Description: ,"Prerequisite:  None. Restriction: Must be a: Graduate, Professional.",,"Terms Offered: Fall, Spring, Summer.",Grade Mode:  S/U Sat/Unsat Only.,"Special Course Fee:  No.
+",
+BC 701,Grant Proposal Writing and Reviewing  Credit,1 (1-0-0),"Course Description: Didactic and hands-on experience with locating funding sources, writing effective grant proposals, and the review process in the bio-molecular sciences.","Prerequisite:  (BC 403) and (BC 511, may be taken concurrently) and (BC 563, may be taken concurrently). Restriction: Must be a: Graduate, Professional.Term Offered: Fall.",,,Grade Mode:  Instructor Option.,"Special Course Fee:  No.
+",
+BC 711,A  Advanced Topics in Structural Biology,Protein Structure and Function  Credit,Course Description: ,"Prerequisite:  BC 511 and BC 611. Restriction: Must be a: Graduate, Professional.",,"Terms Offered: Fall, Spring.",Grade Mode:  Traditional.,"Special Course Fee:  No.
+",
+BC 711,B  Advanced Topics in Structural Biology,Membrane Proteins  Credit,Course Description: ,"Prerequisite:  BC 511 and BC 611. Restriction: Must be a: Graduate, Professional.",,"Terms Offered: Fall, Spring.",Grade Mode:  Traditional.,"Special Course Fee:  No.
+",
+BC 711,C  Advanced Topics in Structural Biology,Protein-DNA Interactions  Credit,Course Description: ,"Prerequisite:  BC 511 and BC 611. Restriction: Must be a: Graduate, Professional.",,"Terms Offered: Fall, Spring.",Grade Mode:  Traditional.,"Special Course Fee:  No.
+",
+BC 711,D  Advanced Topics in Structural Biology,Biomolecular Spectroscopy  Credit,Course Description: ,"Prerequisite:  BC 511 and BC 611. Restriction: Must be a: Graduate, Professional.",,"Terms Offered: Fall, Spring.",Grade Mode:  Traditional.,"Special Course Fee:  No.
+",
+BC 711,E  Advanced Topics in Structural Biology,Biomolecular NMR  Credit,Course Description: ,"Prerequisite:  BC 511 and BC 611. Restriction: Must be a: Graduate, Professional.",,"Terms Offered: Fall, Spring.",Grade Mode:  Traditional.,"Special Course Fee:  No.
+",
+BC 711,F  Advanced Topics in Structural Biology,Macromolecular X-ray Crystallography  Credit,Course Description: ,"Prerequisite:  BC 511 and BC 611. Restriction: Must be a: Graduate, Professional.",,"Terms Offered: Fall, Spring.",Grade Mode:  Traditional.,"Special Course Fee:  No.
+",
+BC 763,A  Advanced Molecular Genetics Topics,Chromatin and Transcription  Credit,Course Description: ,"Prerequisite:  BC 663, may be taken concurrently. Restriction: Must be a: Graduate, Professional.",,"Terms Offered: Fall, Spring.",Grade Mode:  Traditional.,"Special Course Fee:  No.
+",
+BC 763,B  Advanced Molecular Genetics Topics,Transcriptional Control - Co-Activators and Corepressors  Credit,Course Description: ,"Prerequisite:  BC 663, may be taken concurrently. Restriction: Must be a: Graduate, Professional.",,"Terms Offered: Fall, Spring.",Grade Mode:  Traditional.,"Special Course Fee:  No.
+",
+BC 763,C  Advanced Molecular Genetics Topics,Concepts and Techniques of Genetic Analysis  Credit,Course Description: ,"Prerequisite:  BC 663, may be taken concurrently. Restriction: Must be a: Graduate, Professional.",,"Terms Offered: Fall, Spring.",Grade Mode:  Traditional.,"Special Course Fee:  No.
+",
+BC 784,Supervised College Teaching  ,Var[1-3] (0-0-0),Course Description: ,"Prerequisite:  None. Restriction: Must be a: Graduate, Professional.",,"Terms Offered: Fall, Spring, Summer.",Grade Mode:  Instructor Option.,"Special Course Fee:  No.
+",
+BC 793,Seminar  Credit,1 (0-0-1),Course Description: ,"Prerequisite:  None. Restriction: Must be a: Graduate, Professional.",,"Terms Offered: Fall, Spring.",Grade Mode:  Instructor Option.,"Special Course Fee:  No.
+",
+BC 795,Independent Study  ,Var[1-18] (0-0-0),Course Description: ,"Prerequisite:  None. Restriction: Must be a: Graduate, Professional.",,"Terms Offered: Fall, Spring, Summer.",Grade Mode:  S/U Sat/Unsat Only.,"Special Course Fee:  No.
+",
+BC 796,Group Study  ,Var[1-5] (0-0-0),Course Description: ,"Prerequisite:  None. Restriction: Must be a: Graduate, Professional.",,"Terms Offered: Fall, Spring, Summer.",Grade Mode:  S/U Sat/Unsat Only.,"Special Course Fee:  No.
+",
+BC 798,Research  ,Var[1-18] (0-0-0),Course Description: ,"Prerequisite:  None. Restriction: Must be a: Graduate, Professional.",,"Terms Offered: Fall, Spring, Summer.",Grade Mode:  S/U Sat/Unsat Only.,"Special Course Fee:  No.
+",
+BC 799,Dissertation  ,Var[1-18] (0-0-0),Course Description: ,"Prerequisite:  None. Restriction: Must be a: Graduate, Professional.",,"Terms Offered: Fall, Spring, Summer.",Grade Mode:  S/U Sat/Unsat Only.,"Special Course Fee:  No.
+",

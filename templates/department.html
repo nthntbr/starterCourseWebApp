@@ -1,0 +1,43 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <meta charset="UTF-8">
+    <title>{{department}}</title>
+    <link rel="stylesheet" href="{{ url_for('static', filename='css/department.css') }}">
+</head>
+<body>
+    <header class="header">
+        <div class="header__titles">
+            <h1 class="header__title">CSU Course Catalog</h1>
+            <h4 class="header__subtitle">{{department}}</h4>
+        </div>
+        <nav class="menu">
+            <button class="menu__button">&#9776;</button>
+            <div class="menu__options">
+                <a href="{{ url_for('home')}}">Home</a>
+                <a href="{{ url_for('search')}}">Search</a>
+            </div>
+        </nav>
+    </header>
+   
+    <div class="content">
+        <ul class="course-list">
+            {% for c in courseList %}
+                <li class="course-item">
+                    <p class="course-item__title">
+                        <strong>{{ c.code }} {{ c.name }} ({{ c.credits }} credits)</strong>
+                    </p>
+                    <div class="course-item__details">
+                        {% for key, value in c.items() %}
+                            {% if value is not none and key not in ['code', 'name', 'credits'] %}
+                                {% set s = value.split(':', 1) %}
+                                <p><strong>{{ s[0] }}:</strong> {{ s[1] }}</p>
+                            {% endif %}
+                        {% endfor %}
+                    </div>
+                </li>
+            {% endfor %}
+        </ul>
+    </div>
+</body>
+</html>

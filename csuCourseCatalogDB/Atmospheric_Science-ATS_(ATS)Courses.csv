@@ -1,0 +1,217 @@
+code,name,credits,description,prerequisite,registration,termsOffered,gradeMode,additionalInformation
+ATS 150,Science of Global Climate Change  ,3 (3-0-0),"Course Description: Physical basis of climate change. Energy budget of the earth, the greenhouse effect, carbon cycle, paleoclimate, projections of 21st-century climate.",Prerequisite:  None. Restriction: Must be a: Undergraduate.,,"Terms Offered: Fall, Spring.",Grade Mode:  Traditional.,"Special Course Fee:  No.
+",,Registration Information: Sections may be offered: Online.
+ATS 350,Introduction to Weather and Climate  ,2 (2-0-0),Course Description: Behavior of atmosphere and its influence upon human's activities.,Prerequisite:  None.Term Offered: Fall.,,,Grade Mode:  Traditional.,"Special Course Fee:  No.
+",
+ATS 351,Introduction to Weather and Climate Lab  Credit,1 (0-3-0),"Course Description: Actual weather data, visualization of meteorological phenomena, in-depth discussion of current environmental issues.","Prerequisite:  ATS 350, may be taken concurrently.Term Offered: Fall.",,,Grade Mode:  Traditional.,"Special Course Fee:  No.
+",
+ATS 495,Independent Study  ,Var[1-18] (0-0-0),Course Description: ,Prerequisite:  None.,,"Terms Offered: Fall, Spring, Summer.",Grade Mode:  Instructor Option.,"Special Course Fee:  No.
+",
+ATS 543,Global Climate Change  ,2 (2-0-0),"Course Description: Climate change science, climate change impacts, and climate change mitigation, including discussions of current topics in climate change.",Prerequisite:  BZ 300 to 499 or ECOL 300 to 499 or LIFE 300 to 499 or CHEM 300 to 499.,,,Grade Mode:  Traditional.,"Special Course Fee:  No.
+",,Also Offered As:  ESS 543.,Registration Information: Sections may be offered: Online. Credit not allowed for both ATS 543 and ESS 543.Term Offered: Spring.
+ATS 555,Air Pollution  ,3 (3-0-0),"Course Description: Nature, ambient concentrations, sources, sinks, and physiological activities of pollutants; meteorology; legislation; social and economic factors.",Prerequisite:  (CHEM 113) and (MATH 261 or MATH 340) and (PH 122 or PH 142).Term Offered: Spring (odd years).,,,Grade Mode:  Traditional.,"Special Course Fee:  No.
+",
+ATS 556,Climate Intervention to Cool a Warming Planet  ,2 (2-0-0),"Course Description: Introduction to the climate system and its modification by human activities, different potential climate intervention methods, and the social, legal and political issues salient to the topic.","Prerequisite:  None. Restriction: Must not be a: Freshman, Sophomore.",,,Grade Mode:  Traditional.,"Special Course Fee:  No.
+",,Registration Information: Junior standing. Credit not allowed for both ATS 556 and ATS 580A4.Term Offered: Spring.
+ATS 560,Air Pollution Measurement  ,2 (1-3-0),"Course Description: Examination and application of techniques for air pollution measurement. Includes sampling and analysis of gases, aerosols, and precipitation.",Prerequisite:  CHEM 114.,,,Grade Mode:  Traditional.,"Special Course Fee:  No.
+",,Registration Information: Must register for lecture and laboratory.Term Offered: Fall.
+ATS 601,Atmospheric Dynamics I  ,2 (2-0-0),Course Description: Equations of motion; earth's rotation; balanced motion; vorticity and Rossby waves; shallow water models; potential vorticity.,"Prerequisite:  MATH 261 and MATH 530. Restriction: Must be a: Graduate, Professional.Term Offered: Fall.",,,Grade Mode:  Traditional.,"Special Course Fee:  No.
+",
+ATS 602,Atmospheric Dynamics II  ,2 (2-0-0),"Course Description: Sound waves, gravity waves, Rossby waves; numerical weather predication; baroclinic instability; general circulation; tropical dynamics.","Prerequisite:  ATS 601. Restriction: Must be a: Graduate, Professional.Term Offered: Spring.",,,Grade Mode:  Traditional.,"Special Course Fee:  No.
+",
+ATS 604,Atmospheric Modeling  ,3 (3-0-0),Course Description: Design of numerical models of the atmosphere; applications to current problems. Emphasis on practical understanding of relevant numerical methods.,"Prerequisite:  ATS 601. Restriction: Must be a: Graduate, Professional.Term Offered: Fall (odd years).",,,Grade Mode:  Traditional.,"Special Course Fee:  No.
+",
+ATS 605,Atmospheric Circulations  ,3 (3-0-0),"Course Description: Observations and theory of the general circulation of the atmosphere, with emphasis on understanding physical mechanisms.","Prerequisite:  ATS 602, may be taken concurrently. Restriction: Must be a: Graduate, Professional.Term Offered: Spring.",,,Grade Mode:  Traditional.,"Special Course Fee:  No.
+",
+ATS 606,Introduction to Climate  ,2 (2-0-0),"Course Description: Global energy balance, surface energy balance, the hydrological cycle, atmosphere general circulation, ocean general circulation, climate variability, climate sensitivity and feedbacks.","Prerequisite:  MATH 261 and MATH 530. Restriction: Must be a: Graduate, Professional.Term Offered: Spring.",,,Grade Mode:  Traditional.,"Special Course Fee:  No.
+",
+ATS 607,Computational Methods for Atmospheric Science  ,3 (3-0-0),Course Description: Computer programming tools unique to and common in the atmospheric sciences.,"Prerequisite:  ATS 601, may be taken concurrently. Restriction: Must be a: Graduate, Professional.Term Offered: Spring.",,,Grade Mode:  Traditional.,"Special Course Fee:  No.
+",
+ATS 610,Physical Oceanography  ,3 (3-0-0),Course Description: Foundations of ocean circulation theory and the general circulation of the oceans using observational data and rotating tank experiments.,"Prerequisite:  None. Restriction: Must be a: Graduate, Professional.Term Offered: Fall.",,,Grade Mode:  Traditional.,"Special Course Fee:  No.
+",
+ATS 620,Thermodynamics and Cloud Physics  ,2 (2-0-0),"Course Description: Equilibrium thermodynamics, cloud microphysics, precipitation formation, and cloud electrification.","Prerequisite:  MATH 340 and PH 142. Restriction: Must be a: Graduate, Professional.Term Offered: Fall.",,,Grade Mode:  Traditional.,"Special Course Fee:  No.
+",
+ATS 621,Atmospheric Chemistry  ,2 (2-0-0),Course Description: Overview of chemical kinetics and equilibria; sources and sinks of pollutants; photochemistry and smog formation; aqueous-phase chemistry; acid rain.,"Prerequisite:  CHEM 114 and MATH 340 and PH 142. Restriction: Must be a: Graduate, Professional.Term Offered: Fall.",,,Grade Mode:  Traditional.,"Special Course Fee:  No.
+",
+ATS 622,Atmospheric Radiation  ,2 (2-0-0),Course Description: Role of radiation in the energy balance of the climate system; Absorption and scattering of solar radiation; Emission and absorption of terrestrial radiation; Interactions of radiation with clouds and aerosols; Role of radiative active trace gases.,"Prerequisite:  ATS 620. Restriction: Must be a: Graduate, Professional.Term Offered: Spring.",,,Grade Mode:  Traditional.,"Special Course Fee:  No.
+",
+ATS 623,Atmospheric Boundary Layer  ,2 (2-0-0),Course Description: Equations for shallow atmospheric motions; thermal instability of a fluid layer; atmospheric turbulence; flow stability; 1-D mixed layer models.,"Prerequisite:  ATS 601, may be taken concurrently. Restriction: Must be a: Graduate, Professional.Term Offered: Fall (even years).",,,Grade Mode:  Traditional.,"Special Course Fee:  No.
+",
+ATS 631,Introduction to Atmospheric Aerosols  ,2 (1-3-0),"Course Description: Physical, chemical and microphysical characteristics of atmospheric particulate matter; measurement principles and techniques.","Prerequisite:  None. Restriction: Must be a: Graduate, Professional.Term Offered: Spring.",,,Grade Mode:  Traditional.,"Special Course Fee:  No.
+",
+ATS 632,Interpreting Satellite Observations  ,2 (1-3-0),"Course Description: Broad theoretical and practical overview of satellite observations of atmospheric composition. Introduction to the theoretical foundations of satellite composition retrievals of both gases and aerosols, and the associated strengths and weaknesses of commonly used atmospheric products.","Prerequisite:  ATS 621 and ATS 622. Restriction: Must be a: Graduate, Professional.",,,Grade Mode:  Traditional.,"Special Course Fee:  No.
+",,Registration Information: Must register for lecture and laboratory. Credit not allowed for both ATS 632 and ATS 681A1.Term Offered: Spring (odd years).
+ATS 640,Synoptic Meteorology  ,2 (1-2-0),Course Description: Synoptic-scale weather systems; thermodynamic diagrams; vertical motion; fronts; cyclones and anticyclones.,"Prerequisite:  ATS 601, may be taken concurrently. Restriction: Must be a: Graduate, Professional.",,,Grade Mode:  Traditional.,"Special Course Fee:  No.
+",,Registration Information: Must register for lecture and laboratory.Term Offered: Fall.
+ATS 641,Mesoscale Meteorology  ,2 (1-2-0),Course Description: Mesoscale weather systems; instabilities; orographic flows; dynamics of convective storms; organized convection.,"Prerequisite:  ATS 640. Restriction: Must be a: Graduate, Professional.",,,Grade Mode:  Traditional.,"Special Course Fee:  No.
+",,Registration Information: Must register for lecture and laboratory.Term Offered: Spring.
+ATS 650,Measurement Systems and Theory  ,2 (2-0-0),"Course Description: Surface and upper air measurement systems; theory and system response, sensor design; automated data collection, analysis and display systems.","Prerequisite:  PH 142 and STAT 301. Restriction: Must be a: Graduate, Professional.Term Offered: Fall.",,,Grade Mode:  Traditional.,"Special Course Fee:  No.
+",
+ATS 651,Data Assimilation in Numerical Models  ,3 (3-0-0),Course Description: Methods for combining theoretical understanding encoded in complex weather and climate models with real-world observations. Applications include weather prediction and other problems in the geosciences.,"Prerequisite:  (MATH 530) and (MATH 340 and STAT 301). Restriction: Must be a: Graduate, Professional.Term Offered: Spring (odd years).",,,Grade Mode:  Traditional.,"Special Course Fee:  No.
+",
+ATS 652,Atmospheric Remote Sensing  ,2 (2-0-0),"Course Description: Concepts of electromagnetic and acoustic wave propagation; active and passive remote sensing techniques including radar, lidar, thermal emission systems.","Prerequisite:  ATS 622. Restriction: Must be a: Graduate, Professional.Term Offered: Fall (odd years).",,,Grade Mode:  Traditional.,"Special Course Fee:  No.
+",
+ATS 655,Objective Analysis in Atmospheric Sciences  ,3 (3-0-0),Course Description: Objective analysis of geophysical data: general statistics; matrix methods; time series analysis. Emphasis on applications to real-world data.,"Prerequisite:  ATS 601 or MATH 530. Restriction: Must be a: Graduate, Professional.Term Offered: Spring.",,,Grade Mode:  Traditional.,"Special Course Fee:  No.
+",
+ATS 693,Responsible Research in Atmospheric Science  Credit,1 (0-0-1),Course Description: Scientific misconduct; ethical publishing; record keeping; data management; professional skills applicable to atmospheric science.,"Prerequisite:  None. Restriction: Must be a: Graduate, Professional.",,,Grade Mode:  S/U Sat/Unsat Only.,"Special Course Fee:  No.
+",,Registration Information: Must be admitted to Atmospheric Science degree program.Term Offered: Spring.
+ATS 695,A  Independent Study: Atmosphere/Ocean Coupling  ,Var[1-18] (0-0-0),Course Description: ,"Prerequisite:  None. Restriction: Must be a: Graduate, Professional.",,"Terms Offered: Fall, Spring, Summer.",Grade Mode:  Instructor Option.,"Special Course Fee:  No.
+",
+ATS 695,B  Independent Study: Atmospheric Science Topics  ,Var[1-18] (0-0-0),Course Description: ,"Prerequisite:  None. Restriction: Must be a: Graduate, Professional.",,"Terms Offered: Fall, Spring, Summer.",Grade Mode:  Instructor Option.,"Special Course Fee:  No.
+",
+ATS 699,A  Thesis: Global Climate Change  ,Var[1-18] (0-0-0),Course Description: ,"Prerequisite:  None. Restriction: Must be a: Graduate, Professional.",,"Terms Offered: Fall, Spring, Summer.",Grade Mode:  Instructor Option.,"Special Course Fee:  No.
+",
+ATS 699,B  Thesis: Land-Atmosphere Interactions  ,Var[1-18] (0-0-0),Course Description: ,"Prerequisite:  None. Restriction: Must be a: Graduate, Professional.",,"Terms Offered: Fall, Spring, Summer.",Grade Mode:  Instructor Option.,"Special Course Fee:  No.
+",
+ATS 699,C  Thesis: Tropical Meteorology  ,Var[1-18] (0-0-0),Course Description: ,"Prerequisite:  None. Restriction: Must be a: Graduate, Professional.",,"Terms Offered: Fall, Spring, Summer.",Grade Mode:  S/U Sat/Unsat Only.,"Special Course Fee:  No.
+",
+ATS 699,D  Thesis: Weather Systems  ,Var[1-18] (0-0-0),Course Description: ,"Prerequisite:  None. Restriction: Must be a: Graduate, Professional.",,"Terms Offered: Fall, Spring, Summer.",Grade Mode:  Instructor Option.,"Special Course Fee:  No.
+",
+ATS 699,E  Thesis: Remote Sensing  ,Var[1-18] (0-0-0),Course Description: ,"Prerequisite:  None. Restriction: Must be a: Graduate, Professional.",,"Terms Offered: Fall, Spring, Summer.",Grade Mode:  Instructor Option.,"Special Course Fee:  No.
+",
+ATS 699,F  Thesis: Ocean-Atmosphere Interactions  ,Var[1-18] (0-0-0),Course Description: ,"Prerequisite:  None. Restriction: Must be a: Graduate, Professional.",,"Terms Offered: Fall, Spring, Summer.",Grade Mode:  Instructor Option.,"Special Course Fee:  No.
+",
+ATS 699,G  Thesis: General Circulation  ,Var[1-18] (0-0-0),Course Description: ,"Prerequisite:  None. Restriction: Must be a: Graduate, Professional.",,"Terms Offered: Fall, Spring, Summer.",Grade Mode:  Instructor Option.,"Special Course Fee:  No.
+",
+ATS 699,H  Thesis: Remote Sensing of Climate  ,Var[1-18] (0-0-0),Course Description: ,"Prerequisite:  None. Restriction: Must be a: Graduate, Professional.",,"Terms Offered: Fall, Spring, Summer.",Grade Mode:  Instructor Option.,"Special Course Fee:  No.
+",
+ATS 699,I  Thesis: Atmospheric Chemistry  ,Var[1-18] (0-0-0),Course Description: ,"Prerequisite:  None. Restriction: Must be a: Graduate, Professional.",,"Terms Offered: Fall, Spring, Summer.",Grade Mode:  Instructor Option.,"Special Course Fee:  No.
+",
+ATS 699,J  Thesis: Aerosol and Cloud Microphysics  ,Var[1-18] (0-0-0),Course Description: ,"Prerequisite:  None. Restriction: Must be a: Graduate, Professional.",,"Terms Offered: Fall, Spring, Summer.",Grade Mode:  Instructor Option.,"Special Course Fee:  No.
+",
+ATS 699,K  Thesis: Dynamic Meteorology  ,Var[1-18] (0-0-0),Course Description: ,"Prerequisite:  None. Restriction: Must be a: Graduate, Professional.",,"Terms Offered: Fall, Spring, Summer.",Grade Mode:  Instructor Option.,"Special Course Fee:  No.
+",
+ATS 699,L  Thesis: Data Assimilation and Causality  ,Var[1-18] (0-0-0),Course Description: ,"Prerequisite:  None. Restriction: Must be a: Graduate, Professional.",,"Terms Offered: Fall, Spring, Summer.",Grade Mode:  S/U Sat/Unsat Only.,"Special Course Fee:  No.
+",
+ATS 699,M  Thesis: Mesoscale Meteorology  ,Var[1-18] (0-0-0),Course Description: ,"Prerequisite:  None. Restriction: Must be a: Graduate, Professional.",,"Terms Offered: Fall, Spring, Summer.",Grade Mode:  Instructor Option.,"Special Course Fee:  No.
+",
+ATS 699,N  Thesis: Dynamics and Physics of Clouds  ,Var[1-18] (0-0-0),Course Description: ,"Prerequisite:  None. Restriction: Must be a: Graduate, Professional.",,"Terms Offered: Fall, Spring, Summer.",Grade Mode:  Instructor Option.,"Special Course Fee:  No.
+",
+ATS 699,O  Thesis: Mesoscale Modeling  ,Var[1-18] (0-0-0),Course Description: ,"Prerequisite:  None. Restriction: Must be a: Graduate, Professional.",,"Terms Offered: Fall, Spring, Summer.",Grade Mode:  Instructor Option.,"Special Course Fee:  No.
+",
+ATS 699,P  Thesis: Radiation Transfer  ,Var[1-18] (0-0-0),Course Description: ,"Prerequisite:  None. Restriction: Must be a: Graduate, Professional.",,"Terms Offered: Fall, Spring, Summer.",Grade Mode:  S/U Sat/Unsat Only.,"Special Course Fee:  No.
+",
+ATS 699,Q  Thesis: Radar Meteorology  ,Var[1-18] (0-0-0),Course Description: ,"Prerequisite:  None. Restriction: Must be a: Graduate, Professional.",,"Terms Offered: Fall, Spring, Summer.",Grade Mode:  Instructor Option.,"Special Course Fee:  No.
+",
+ATS 699,R  Thesis: Aerosol and Cloud Chemistry  ,Var[1-18] (0-0-0),Course Description: ,"Prerequisite:  None. Restriction: Must be a: Graduate, Professional.",,"Terms Offered: Fall, Spring, Summer.",Grade Mode:  Instructor Option.,"Special Course Fee:  No.
+",
+ATS 699,S  Thesis: Climate Dynamics  ,Var[1-18] (0-0-0),Course Description: ,"Prerequisite:  None. Restriction: Must be a: Graduate, Professional.",,"Terms Offered: Fall, Spring, Summer.",Grade Mode:  Instructor Option.,"Special Course Fee:  No.
+",
+ATS 699,T  Thesis: Climate Analysis  ,Var[1-18] (0-0-0),Course Description: ,"Prerequisite:  None. Restriction: Must be a: Graduate, Professional.",,"Terms Offered: Fall, Spring, Summer.",Grade Mode:  S/U Sat/Unsat Only.,"Special Course Fee:  No.
+",
+ATS 699,U  Thesis: Tropospheric Chemistry  ,Var[1-18] (0-0-0),Course Description: ,"Prerequisite:  None. Restriction: Must be a: Graduate, Professional.",,"Terms Offered: Fall, Spring, Summer.",Grade Mode:  Instructor Option.,"Special Course Fee:  No.
+",
+ATS 699,V  Thesis: Atmospheric Variability  ,Var[1-18] (0-0-0),Course Description: ,"Prerequisite:  None. Restriction: Must be a: Graduate, Professional.",,"Terms Offered: Fall, Spring, Summer.",Grade Mode:  Instructor Option.,"Special Course Fee:  No.
+",
+ATS 703,Numerical Weather Prediction  ,2 (2-0-0),"Course Description: Quasi-geostrophic approximation; barotropic, baroclinic, primitive equation, and general circulation models; numerical methods.","Prerequisite:  ATS 602. Restriction: Must be a: Graduate, Professional.Term Offered: Fall (even years).",,,Grade Mode:  Traditional.,"Special Course Fee:  No.
+",
+ATS 704,Large-Scale Atmospheric Dynamics  ,2 (2-0-0),"Course Description: Quasi-static, quasi-geostrophic equations; planetary waves; geostrophic adjustment; barotropic, baroclinic instability; frontogenesis; tropical cyclones.","Prerequisite:  ATS 602. Restriction: Must be a: Graduate, Professional.Term Offered: Fall (odd years).",,,Grade Mode:  Traditional.,"Special Course Fee:  No.
+",
+ATS 707,Atmospheric Waves and Vortices  ,3 (2-0-1),Course Description: Atmospheric wave motions and embedded vortices spanning mountain waves to large-scale Rossby waves and critical layers.,"Prerequisite:  ATS 605. Restriction: Must be a: Graduate, Professional.",,,Grade Mode:  Traditional.,"Special Course Fee:  No.
+",,Registration Information: Must register for lecture and recitation.Term Offered: Fall (odd years).
+ATS 708,Middle Atmospheric Dynamics  ,3 (3-0-0),Course Description: Dynamics of the stratosphere and mesosphere with emphasis on the lower and middle stratosphere.,"Prerequisite:  ATS 602. Restriction: Must be a: Graduate, Professional.Term Offered: Spring.",,,Grade Mode:  Traditional.,"Special Course Fee:  No.
+",
+ATS 710,Geophysical Vortices  ,3 (3-0-0),"Course Description: Observational, experimental, and theoretical aspects of geophysical vortices, such as hurricanes, polar lows, tornadoes, and dust devils.","Prerequisite:  ATS 602. Restriction: Must be a: Graduate, Professional.Term Offered: Fall (even years).",,,Grade Mode:  Traditional.,"Special Course Fee:  No.
+",
+ATS 711,Microclimate  ,2 (2-0-0),"Course Description: Momentum, heat, water, and trace gas fluxes near the earth's surface, including fluxes between the atmosphere and the land/ocean/ice surfaces.","Prerequisite:  MATH 340 and ATS 623. Restriction: Must be a: Graduate, Professional.Term Offered: Fall (even years).",,,Grade Mode:  Traditional.,"Special Course Fee:  No.
+",
+ATS 712,Dynamics of Clouds  ,3 (3-0-0),"Course Description: General theory of cloud dynamics; parameterization of microphysics and radiation; models of fog, stratocumuli, cumulonimbi, and orographic clouds.","Prerequisite:  ATS 623. Restriction: Must be a: Graduate, Professional.Term Offered: Spring (odd years).",,,Grade Mode:  Traditional.,"Special Course Fee:  No.
+",
+ATS 715,Atmospheric Oxidation Processes  ,2 (2-0-0),Course Description: Atmospheric hydrocarbon and nitrogen oxide reactions; aqueous phase scavenging and reactions; chemical pathways in the atmosphere.,"Prerequisite:  ATS 621. Restriction: Must be a: Graduate, Professional.Term Offered: Fall (odd years).",,,Grade Mode:  Traditional.,"Special Course Fee:  No.
+",
+ATS 716,Air Quality Characterization  ,2 (1-2-0),"Course Description: Planning, executing, and reporting on a measurement campaign to characterize local air quality.","Prerequisite:  (ATS 560) and (ATS 555 or ATS 621). Restriction: Must be a: Graduate, Professional.",,,Grade Mode:  Traditional.,"Special Course Fee:  No.
+",,Registration Information: Must register for lecture and laboratory.Term Offered: Spring.
+ATS 721,Theoretical Topics in Radiative Transfer  ,3 (3-0-0),Course Description: Physics of atmospheric radiation; theoretical techniques used to show radiation transfer equation.,"Prerequisite:  ATS 622. Restriction: Must be a: Graduate, Professional.Term Offered: Fall (odd years).",,,Grade Mode:  Traditional.,"Special Course Fee:  No.
+",
+ATS 722,Atmospheric Radiation and Energetics  ,3 (2-0-1),Course Description: Radiative transfer in the atmosphere; implications on remote sensing and energetics.,"Prerequisite:  ATS 622. Restriction: Must be a: Graduate, Professional.",,,Grade Mode:  Traditional.,"Special Course Fee:  No.
+",,Registration Information: Must register for lecture and recitation.Term Offered: Spring (odd years).
+ATS 724,Cloud Microphysics  ,2 (2-0-0),Course Description: Theories and observations of nucleation; cloud droplet spectria broadening; precipitation growth and breakup; ice multiplication; cloud electrification.,"Prerequisite:  ATS 621. Restriction: Must be a: Graduate, Professional.Term Offered: Spring (odd years).",,,Grade Mode:  Traditional.,"Special Course Fee:  No.
+",
+ATS 730,Mesoscale Modeling  ,3 (3-0-0),Course Description: Development of basic equations used in mesoscale models and methodology of solution,"Prerequisite:  ATS 602 and ATS 623. Restriction: Must be a: Graduate, Professional.Term Offered: Fall (even years).",,,Grade Mode:  Traditional.,"Special Course Fee:  No.
+",
+ATS 735,Mesoscale Dynamics  ,3 (3-0-0),"Course Description: Analysis of physical and dynamical processes that initiate, maintain, and modulate atmospheric mesoscale phenomena.","Prerequisite:  ATS 602. Restriction: Must be a: Graduate, Professional.Term Offered: Fall (odd years).",,,Grade Mode:  Traditional.,"Special Course Fee:  No.
+",
+ATS 737,Satellite Observation of Atmosphere and Earth  ,3 (3-0-0),Course Description: Satellite measurements; basic orbits and observing systems; applications of remote probing and imaging to investigations of atmospheric processes.,"Prerequisite:  ATS 622 and ATS 652. Restriction: Must be a: Graduate, Professional.Term Offered: Spring (even years).",,,Grade Mode:  Traditional.,"Special Course Fee:  No.
+",
+ATS 740,Atmospheric Electricity  ,2 (2-0-0),"Course Description: Foundations of atmospheric electricity, including global electric circuit and the role of thunderstorms in maintaining this circuit, thunderstorm electrification processes based on non-inductive charging theory, lightning detection based on RF and optical sensing, and lightning phenomena including Transient Luminous Events.","Prerequisite:  ATS 620. Restriction: Must be a: Graduate, Professional.",,,Grade Mode:  Traditional.,"Special Course Fee:  No.
+",,Registration Information: Written consent of instructor. Credit not allowed for both ATS 740 and ATS 780A3.Term Offered: Spring (odd years).
+ATS 741,Radar Meteorology  ,3 (3-0-0),Course Description: Radar systems; radar equation and applications; multiple Doppler observation and processing; radar studies of mesoscale systems.,"Prerequisite:  ATS 652. Restriction: Must be a: Graduate, Professional.Term Offered: Spring (odd years).",,,Grade Mode:  Traditional.,"Special Course Fee:  No.
+",
+ATS 742,Tropical Meteorology  ,2 (2-0-0),"Course Description: Overview of the tropical atmosphere, monsoons, intraseasonal variability, hurricanes, theory of tropical convection and the large-scale circulation.","Prerequisite:  ATS 601 and ATS 602 and ATS 606. Restriction: Must be a: Graduate, Professional.Term Offered: Spring (even years).",,,Grade Mode:  Traditional.,"Special Course Fee:  No.
+",
+ATS 743,Interactions of the Ocean and Atmosphere  ,3 (3-0-0),"Course Description: Ocean-atmosphere interactions in observations, theory, and models. Time mean atmosphere-ocean circulations through climate variability and change.","Prerequisite:  ATS 602. Restriction: Must be a: Graduate, Professional.Term Offered: Spring (odd years).",,,Grade Mode:  Traditional.,"Special Course Fee:  No.
+",
+ATS 745,Atmospheric General Circulation Modeling  ,3 (3-0-0),Course Description: Current problems in modeling of the general circulation of the atmosphere.,"Prerequisite:  ATS 602 and ATS 605. Restriction: Must be a: Graduate, Professional.Term Offered: Spring (even years).",,,Grade Mode:  Traditional.,"Special Course Fee:  No.
+",
+ATS 750,Climate Dynamics: Atmospheric Variability  ,3 (3-0-0),Course Description: Analysis and interpretation of large-scale patterns of climate variability and observed climate change.,"Prerequisite:  ATS 605 and ATS 655. Restriction: Must be a: Graduate, Professional.Term Offered: Fall (even years).",,,Grade Mode:  Traditional.,"Special Course Fee:  No.
+",
+ATS 752,Inverse Methods in Atmospheric Science  ,2 (2-0-0),"Course Description: Introduction to inverse modeling, with particular application to remote sensing retrievals, flux inversions and data assimilation.","Prerequisite:  None. Restriction: Must be a: Graduate, Professional.",,,Grade Mode:  Traditional.,"Special Course Fee:  No.
+",,Registration Information: Ph.D. standing in Atmospheric Science required.Term Offered: Fall.
+ATS 753,Global Hydrologic Cycle  ,3 (3-0-0),"Course Description: Hydrologic cycle, moisture transport and air-ground exchange; water budgets of meteorological phenomena; climatology of atmospheric water.","Prerequisite:  (ATS 601) and (ATS 622 or ATS 652). Restriction: Must be a: Graduate, Professional.Term Offered: Spring (even years).",,,Grade Mode:  Traditional.,"Special Course Fee:  No.
+",
+ATS 755,Theoretical and Applied Climatology  ,3 (3-0-0),Course Description: Current topics in climate research.,"Prerequisite:  ATS 606. Restriction: Must be a: Graduate, Professional.Term Offered: Fall (even years).",,,Grade Mode:  Traditional.,"Special Course Fee:  No.
+",
+ATS 760,Global Carbon Cycle  ,2 (2-0-0),"Course Description: Exchanges of CO2 between the atmosphere, the land surface, and oceans. Biogeochemical processes. Micrometeorological and inverse flux estimation.","Prerequisite:  ATS 606. Restriction: Must be a: Graduate, Professional.Term Offered: Spring (odd years).",,,Grade Mode:  Traditional.,"Special Course Fee:  No.
+",
+ATS 761,Land-Atmosphere Interactions  ,2 (2-0-0),"Course Description: Exchange of energy, water, momentum, and carbon between the land surface and the atmosphere.","Prerequisite:  ATS 606. Restriction: Must be a: Graduate, Professional.Term Offered: Fall (even years).",,,Grade Mode:  Traditional.,"Special Course Fee:  No.
+",
+ATS 762,Biosphere-Chemistry-Climate Interactions  ,2 (2-0-0),Course Description: Explore the sensitivity of the climate system to atmospheric chemical composition with emphasis on connections to biospheric processes and feedbacks.,"Prerequisite:  ATS 621. Restriction: Must be a: Graduate, Professional.Term Offered: Spring (odd years).",,,Grade Mode:  Traditional.,"Special Course Fee:  No.
+",
+ATS 765,Climate Dynamics-Ocean Variability  ,3 (3-0-0),Course Description: Climate variability on time scales of years to millennia with focus on the role of the ocean circulation. Approach through dynamical systems theory.,"Prerequisite:  ATS 606. Restriction: Must be a: Graduate, Professional.Term Offered: Fall (even years).",,,Grade Mode:  Traditional.,"Special Course Fee:  No.
+",
+ATS 770,Ocean Modeling  ,3 (3-0-0),Course Description: Conceptual and numerical ocean models and their application to current problems in climate science and biogeochemical cycles.,"Prerequisite:  ATS 601. Restriction: Must be a: Graduate, Professional.Term Offered: Fall (even years).",,,Grade Mode:  Traditional.,"Special Course Fee:  No.
+",
+ATS 772,"Aerosol Physics, Chemistry, Clouds & Climate  ",3 (3-0-0),"Course Description: The physics  and chemistry of atmospheric aerosols including composition,  size, and interaction with radiation and clouds, including the development of research-grade models of aerosols, clouds, and radiation.","Prerequisite:  (CHEM 114 and MATH 161) and (PH 122 or PH 142). Restriction: Must be a: Graduate, Professional.Term Offered: Fall (odd years).",,,Grade Mode:  Traditional.,"Special Course Fee:  No.
+",
+ATS 784,Supervised College Teaching  ,Var[1-18] (0-0-0),Course Description: ,"Prerequisite:  None. Restriction: Must be a: Graduate, Professional.",,"Terms Offered: Fall, Spring, Summer.",Grade Mode:  Instructor Option.,"Special Course Fee:  No.
+",
+ATS 786,Practicum  ,Var[1-18] (0-0-0),Course Description: ,"Prerequisite:  None. Restriction: Must be a: Graduate, Professional.",,"Terms Offered: Fall, Spring, Summer.",Grade Mode:  Instructor Option.,"Special Course Fee:  No.
+",
+ATS 795,Independent Study  ,Var[1-18] (0-0-0),Course Description: ,"Prerequisite:  None. Restriction: Must be a: Graduate, Professional.",,"Terms Offered: Fall, Spring, Summer.",Grade Mode:  Instructor Option.,"Special Course Fee:  No.
+",
+ATS 796,Group Study  ,Var[1-18] (0-0-0),Course Description: ,"Prerequisite:  None. Restriction: Must be a: Graduate, Professional.",,"Terms Offered: Fall, Spring, Summer.",Grade Mode:  Instructor Option.,"Special Course Fee:  No.
+",
+ATS 799,A  Dissertation: Global Climate Change  ,Var[1-18] (0-0-0),Course Description: ,"Prerequisite:  None. Restriction: Must be a: Graduate, Professional.",,"Terms Offered: Fall, Spring, Summer.",Grade Mode:  Instructor Option.,"Special Course Fee:  No.
+",
+ATS 799,B  Dissertation: Land-Atmosphere Interactions  ,Var[1-18] (0-0-0),Course Description: ,"Prerequisite:  None. Restriction: Must be a: Graduate, Professional.",,"Terms Offered: Fall, Spring, Summer.",Grade Mode:  Instructor Option.,"Special Course Fee:  No.
+",
+ATS 799,C  Dissertation: Tropical Meteorology  ,Var[1-18] (0-0-0),Course Description: ,"Prerequisite:  None. Restriction: Must be a: Graduate, Professional.",,"Terms Offered: Fall, Spring, Summer.",Grade Mode:  Instructor Option.,"Special Course Fee:  No.
+",
+ATS 799,D  Dissertation: Weather Systems  ,Var[1-18] (0-0-0),Course Description: ,"Prerequisite:  None. Restriction: Must be a: Graduate, Professional.",,"Terms Offered: Fall, Spring, Summer.",Grade Mode:  Instructor Option.,"Special Course Fee:  No.
+",
+ATS 799,E  Dissertation: Remote Sensing  ,Var[1-18] (0-0-0),Course Description: ,"Prerequisite:  None. Restriction: Must be a: Graduate, Professional.",,"Terms Offered: Fall, Spring, Summer.",Grade Mode:  Instructor Option.,"Special Course Fee:  No.
+",
+ATS 799,F  Dissertation: Ocean-Atmosphere Interactions  ,Var[1-18] (0-0-0),Course Description: ,"Prerequisite:  None. Restriction: Must be a: Graduate, Professional.",,"Terms Offered: Fall, Spring, Summer.",Grade Mode:  Instructor Option.,"Special Course Fee:  No.
+",
+ATS 799,G  Dissertation: General Circulation  ,Var[1-18] (0-0-0),Course Description: ,"Prerequisite:  None. Restriction: Must be a: Graduate, Professional.",,"Terms Offered: Fall, Spring, Summer.",Grade Mode:  Instructor Option.,"Special Course Fee:  No.
+",
+ATS 799,H  Dissertation: Remote Sensing of Climate  ,Var[1-18] (0-0-0),Course Description: ,"Prerequisite:  None. Restriction: Must be a: Graduate, Professional.",,"Terms Offered: Fall, Spring, Summer.",Grade Mode:  Instructor Option.,"Special Course Fee:  No.
+",
+ATS 799,I  Dissertation: Atmospheric Chemistry  ,Var[1-18] (0-0-0),Course Description: ,"Prerequisite:  None. Restriction: Must be a: Graduate, Professional.",,"Terms Offered: Fall, Spring, Summer.",Grade Mode:  Instructor Option.,"Special Course Fee:  No.
+",
+ATS 799,J  Dissertation: Aerosol and Cloud Microphysics  ,Var[1-18] (0-0-0),Course Description: ,"Prerequisite:  None. Restriction: Must be a: Graduate, Professional.",,"Terms Offered: Fall, Spring, Summer.",Grade Mode:  Instructor Option.,"Special Course Fee:  No.
+",
+ATS 799,K  Dissertation: Dynamic Meteorology  ,Var[1-18] (0-0-0),Course Description: ,"Prerequisite:  None. Restriction: Must be a: Graduate, Professional.",,"Terms Offered: Fall, Spring, Summer.",Grade Mode:  Instructor Option.,"Special Course Fee:  No.
+",
+ATS 799,L  Dissertation: Data Assimilation and Causality  ,Var[1-18] (0-0-0),Course Description: ,"Prerequisite:  None. Restriction: Must be a: Graduate, Professional.",,"Terms Offered: Fall, Spring, Summer.",Grade Mode:  Instructor Option.,"Special Course Fee:  No.
+",
+ATS 799,M  Dissertation: Mesoscale Meteorology  ,Var[1-18] (0-0-0),Course Description: ,"Prerequisite:  None. Restriction: Must be a: Graduate, Professional.",,"Terms Offered: Fall, Spring, Summer.",Grade Mode:  Instructor Option.,"Special Course Fee:  No.
+",
+ATS 799,N  Dissertation: Dynamics and Physics of Clouds  ,Var[1-18] (0-0-0),Course Description: ,"Prerequisite:  None. Restriction: Must be a: Graduate, Professional.",,"Terms Offered: Fall, Spring, Summer.",Grade Mode:  Instructor Option.,"Special Course Fee:  No.
+",
+ATS 799,O  Dissertation: Mesoscale Modeling  ,Var[1-18] (0-0-0),Course Description: ,"Prerequisite:  None. Restriction: Must be a: Graduate, Professional.",,"Terms Offered: Fall, Spring, Summer.",Grade Mode:  Instructor Option.,"Special Course Fee:  No.
+",
+ATS 799,P  Dissertation: Radiation Transfer  ,Var[1-18] (0-0-0),Course Description: ,"Prerequisite:  None. Restriction: Must be a: Graduate, Professional.",,"Terms Offered: Fall, Spring, Summer.",Grade Mode:  Instructor Option.,"Special Course Fee:  No.
+",
+ATS 799,Q  Dissertation: Radar Meteorology  ,Var[1-18] (0-0-0),Course Description: ,"Prerequisite:  None. Restriction: Must be a: Graduate, Professional.",,"Terms Offered: Fall, Spring, Summer.",Grade Mode:  Instructor Option.,"Special Course Fee:  No.
+",
+ATS 799,R  Dissertation: Aerosol and Cloud Chemistry  ,Var[1-18] (0-0-0),Course Description: ,"Prerequisite:  None. Restriction: Must be a: Graduate, Professional.",,"Terms Offered: Fall, Spring, Summer.",Grade Mode:  Instructor Option.,"Special Course Fee:  No.
+",
+ATS 799,S  Dissertation: Climate Dynamics  ,Var[1-18] (0-0-0),Course Description: ,"Prerequisite:  None. Restriction: Must be a: Graduate, Professional.",,"Terms Offered: Fall, Spring, Summer.",Grade Mode:  Instructor Option.,"Special Course Fee:  No.
+",
+ATS 799,T  Dissertation: Climate Analysis  ,Var[1-18] (0-0-0),Course Description: ,"Prerequisite:  None. Restriction: Must be a: Graduate, Professional.",,"Terms Offered: Fall, Spring, Summer.",Grade Mode:  S/U Sat/Unsat Only.,"Special Course Fee:  No.
+",
+ATS 799,U  Dissertation: Tropospheric Chemistry  ,Var[1-18] (0-0-0),Course Description: ,"Prerequisite:  None. Restriction: Must be a: Graduate, Professional.",,"Terms Offered: Fall, Spring, Summer.",Grade Mode:  Instructor Option.,"Special Course Fee:  No.
+",
+ATS 799,V  Dissertation: Atmospheric Variability  ,Var[1-18] (0-0-0),Course Description: ,"Prerequisite:  None. Restriction: Must be a: Graduate, Professional.",,"Terms Offered: Fall, Spring, Summer.",Grade Mode:  Instructor Option.,"Special Course Fee:  No.
+",
